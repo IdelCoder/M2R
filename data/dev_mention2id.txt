@@ -1,0 +1,3671 @@
+3670
+0	path fly prep pobj from to
+1	nsubj path die prep pobj home at in
+2	govern dobj partmod path
+3	nsubj path prep pobj with take
+4	poss minister path appos
+5	nsubj path live prep pobj in
+6	give dobj path rcmod
+7	path prep pobj appos at professor
+8	nsubj path dobj capture
+9	path prep pobj by trade to
+10	nsubj beat path dobj
+11	beat path prep pobj dobj at
+12	nsubj beat path prep pobj at
+13	path prep pobj of poss production
+14	path edit director prep pobj by dep appos
+15	nsubj path blame dobj
+16	path nn prep pobj of premiere
+17	appos nn path president
+18	nsubj path prep pobj at have
+19	path nn prep pobj of state
+20	nsubj path prep pobj with file
+21	appos magazine nn path
+22	nsubj sell path prep pobj to
+23	nsubj path be prep pobj at
+24	nsubj path prep pobj make to
+25	appos nn path artist
+26	path prep pobj bank appos in
+27	appos nn path bank
+28	chief path prep pobj for appos
+29	nsubj path want
+30	appos nn path professor
+31	replace dobj path rcmod
+32	nsubj path dobj pass
+33	nsubj path dobj overtake
+34	path spokesman prep pobj for appos
+35	nsubj path prep pobj try in
+36	path nn prep expert pobj at
+37	appos nn path leader
+38	path prep pobj by dobj review
+39	nsubj path prep pobj appeal to
+40	nsubj path return prep pobj to
+41	nsubj path prep pobj move from
+42	nsubj path give dobj
+43	path prep pobj of minister appos
+44	nsubj path dobj stop
+45	chief path prep pobj appos in
+46	path prep pobj island appos in
+47	defeat dobj path rcmod
+48	poss friend path appos
+49	nsubj path dobj win
+50	nsubj path prep pobj extend to
+51	nsubj dobj path help
+52	attack nsubj path dobj
+53	nsubj path dobj supply
+54	path prep tie pobj poss to
+55	path prep ally pobj of appos
+56	path prep tie pobj with poss
+57	dobj represent path rcmod
+58	nsubj path prep pobj with have
+59	support path prep pobj of poss
+60	nsubj path prep tie pobj dobj have to
+61	nsubj path prep ally pobj of
+62	path prep pobj to take
+63	path prep pobj go to
+64	path prep pobj appos house in
+65	path prep pobj dean appos at
+66	nsubj path dobj strike
+67	nsubj have path rcmod
+68	path answer prep pobj poss to
+69	nsubj dobj path visit
+70	visit dobj path rcmod
+71	path prep pobj trade rcmod to
+72	path visit prep pobj dobj in
+73	nsubj dobj path ask
+74	nsubj path dobj fire
+75	path prep as pobj dobj star
+76	nsubj path prep pobj earn at
+77	appos nn path resident
+78	nsubj review path dobj
+79	path scholar prep pobj appos at
+80	appos catcher path nn
+81	nsubj sign path prep pobj with
+82	son path prep pobj of appos
+83	poss director path appos
+84	partmod path lead prep pobj group by appos
+85	path prep pobj pass from to
+86	appos nn path farmer
+87	appos director path nn
+88	path send prep pobj dobj to
+89	path prep pobj champion from appos
+90	nsubj dobj path use
+91	path prep pobj by nsubjpass upset
+92	nsubj path dobj battle
+93	appos path poss maker
+94	path prep pobj open dobj in
+95	nsubj path return prep pobj from
+96	nsubj path sound prep pobj like
+97	appos nn path star
+98	chief path prep pobj of appos
+99	nsubj path prep pobj for leave
+100	magazine path nn prep pobj appos editor at
+101	path prep pobj move from INV to
+102	nsubj dobj path play
+103	partmod path write prep pobj by
+104	nsubj path dobj assist
+105	nsubj path send prep pobj to
+106	path prep pobj ambassador poss to
+107	partmod path own prep pobj by
+108	nsubj path prep pobj resign from
+109	nsubj path fly prep pobj to
+110	path prep pobj group in amod
+111	nsubj dobj path provide
+112	call partmod path dep
+113	path write prep pobj directed by dep
+114	nsubj path columnist prep pobj for
+115	nsubj path prep pobj stop in
+116	nsubj path dobj select
+117	nsubj path want dobj
+118	path prep pobj of owner appos
+119	nsubj path prep pobj by review
+120	nsubj path be dep
+121	appos nn path chef
+122	partmod path prep pobj follow by
+123	poss path appos partner
+124	bring path prep pobj dobj to
+125	dobj upset path rcmod
+126	path economist prep pobj appos at
+127	path prep pobj of head appos
+128	appos nn path defenseman
+129	path district nn prep pobj in
+130	path section nn prep pobj of
+131	dobj path rcmod make
+132	path write prep pobj by nsubjpass
+133	nsubj path dobj join
+134	appos director path
+135	poss nn path apartment
+136	edition path nn prep pobj of
+137	nsubj path prep pobj at win
+138	path prep pobj on rcmod live
+139	appos path poss city
+140	path native prep pobj of appos
+141	path nn prep pobj show in
+142	appos nn path spokesman
+143	path coordinator prep pobj for appos
+144	path president prep pobj appos at
+145	nsubj appear path prep pobj at
+146	nsubj path prep pobj from mile
+147	path prep over pobj dobj choose
+148	appos affiliate path nn
+149	nsubj path die prep pobj at
+150	path nn prep pobj of firm
+151	letter nn path
+152	path prep pobj of member from
+153	path father prep pobj of appos
+154	path prep pobj of founder appos
+155	nsubj path dobj defeat
+156	nsubj path found dobj
+157	nsubj path get
+158	path nn prep pobj concert in
+159	path prep pobj of manager appos
+160	appos path poss captain
+161	nsubj path dobj take
+162	path prep pobj rcmod in star
+163	dobj path rcmod win
+164	appos winner nn path
+165	appos singer nn path
+166	path prep study pobj rcmod in
+167	nsubj path prep play pobj in
+168	bring nsubj path prep pobj from
+169	appos path poss father
+170	nsubj path writer prep pobj in rcmod live
+171	path prep expert pobj on appos
+172	nsubj beat path prep pobj in
+173	path president prep pobj of appos
+174	path section prep pobj of amod
+175	nsubj path prep play pobj for
+176	path prep play pobj at in
+177	partmod path prep pobj sponsor by
+178	path prep play pobj for rcmod
+179	tmod nsubj beat path
+180	path prep study with pobj rcmod
+181	nsubj path dobj move
+182	nsubj path be prep pobj like
+183	path prep change pobj from to
+184	partmod path prep pobj by design
+185	path general prep pobj of appos
+186	path prep pobj by design rcmod
+187	nsubj come path prep pobj from
+188	columnist path prep pobj for appos
+189	appos nn path team
+190	nsubj path prep pobj travel to
+191	path prep pobj appos home in
+192	path nn prep community pobj of INV
+193	path agent prep pobj with appos
+194	appos path poss consultant
+195	path nn prep pobj unit in
+196	appos nn path network
+197	path player prep pobj from appos
+198	nsubj path release dobj
+199	path prep expert pobj appos at
+200	path prep spokeswoman pobj for appos
+201	appos path poss center
+202	path visit prep pobj poss to
+203	path prep loss pobj poss to
+204	nsubj throw path rcmod
+205	criticize nsubj path dobj
+206	partmod path sign prep pobj with
+207	path live prep pobj rcmod in
+208	nsubj path be prep pobj in
+209	dobj path rcmod manage
+210	path prep pobj defeat dobj at
+211	path president prep pobj of in
+212	nsubj path prep pobj belong to
+213	portray nsubj path dobj
+214	nsubj handle path dobj
+215	path nn prep suburb of pobj
+216	nsubj interested path prep pobj in
+217	path nn prep pobj of school
+218	nsubj path dobj meet
+219	path nn prep pobj flight from
+220	nsubj path rcmod make
+221	nsubj path prep pobj with team
+222	appos architect nn path
+223	nsubj dobj path coach
+224	nsubj path prep pobj go to
+225	nsubj path prep pobj in arrive
+226	nsubj path appos INV professor
+227	nsubj path prep pobj INV at professor
+228	poss home nn path
+229	path prep chairman of pobj appos
+230	path prep rookie pobj from appos
+231	path prep pobj aide appos to
+232	nsubj path fly prep pobj from
+233	nsubj path write prep pobj in
+234	nsubj path reach prep pobj with agreement dobj
+235	path prep pobj of town in
+236	bring path prep pobj from to
+237	path prep pobj dobj compare to
+238	nsubj path rcmod put
+239	nsubj throw path prep pobj to
+240	nsubj path charge dobj
+241	partmod path prep pobj by direct
+242	appos neighbor path poss
+243	path nn prep center pobj in
+244	nsubj path dobj bench
+245	path prep perform pobj at in
+246	nsubj path prep pobj for add
+247	nsubj path leave dobj
+248	nsubj path prep pobj popular in
+249	path headquarters nn prep pobj in
+250	path advmod pobj of south dep
+251	path prep pobj lose in to
+252	nsubj path prep pobj with agree
+253	nsubj path prep pobj do in
+254	path prep over pobj victory poss
+255	nsubj path prep perform pobj at
+256	path prep play pobj rcmod in
+257	path prep pobj of member appos
+258	path equivalent prep pobj of amod
+259	poss appos path president
+260	path prep pobj to in send
+261	path write prep pobj by
+262	member nn path appos
+263	nsubj path dobj close
+264	path director prep pobj by dep appos release
+265	path prep pobj lose rcmod to
+266	nsubj path prep pobj speak in
+267	nsubj path prep pobj turn to
+268	partmod path sing prep pobj by
+269	nsubj path visit prep pobj in
+270	nsubj come path prep pobj at
+271	appos path poss star
+272	path prep play pobj dobj in
+273	partmod path prep pobj by present
+274	path prep pobj open at rcmod
+275	nsubj dobj path advise
+276	poss nn path title
+277	nsubj sign path prep pobj with agreement dobj
+278	appos nn path lawyer
+279	nsubj path at prep pobj present
+280	path prep pobj war poss in
+281	campaign path against prep pobj poss
+282	nsubj path dobj invade
+283	path border prep pobj with poss
+284	path prep pobj with war poss
+285	path work prep pobj for rcmod
+286	nsubj path replace dobj
+287	nsubj path set prep pobj in
+288	path suspend prep pobj by nsubjpass
+289	nsubj path prep pobj use in
+290	path prep over pobj give victory dobj iobj
+291	nsubj path prep pobj pay to
+292	nsubj dobj path manage
+293	path prep pobj for candidate appos
+294	poss campaign path nn
+295	path prep pobj move from in
+296	appos path poss owner
+297	nsubj path purchase dobj
+298	appos nn path concern
+299	path write prep pobj for rcmod
+300	path section nn prep pobj in
+301	need nsubj path dobj
+302	partmod path base prep pobj in
+303	path prep pobj of capital appos
+304	path prep pobj of appos southeast
+305	path prep pobj at present rcmod
+306	nsubj path die prep pobj in
+307	path nn prep pobj house in
+308	nsubj path work prep pobj with
+309	nsubj path prep pobj win to
+310	nsubj path prep win pobj in
+311	nsubj path receive prep pobj from
+312	speaker nn path appos
+313	path be prep pobj rcmod in
+314	nsubj path prep pobj by concert dobj review
+315	appos nn path coach
+316	path director prep pobj of appos
+317	path prep produce pobj by dep release
+318	path prep pobj from appos freshman
+319	nsubj trade path dobj
+320	nsubj sign path dobj
+321	path kill prep pobj dobj in
+322	flee dobj path rcmod
+323	appos nn path pitcher
+324	nsubj path dobj prefer
+325	appos path bank poss
+326	poss path appos chairman
+327	path against prep pobj poss game
+328	nsubj son path prep pobj of
+329	path appos minister poss INV
+330	appos nn path newspaper
+331	appos nn path institution
+332	path nn prep pobj parade in
+333	path prep pobj bear rcmod in
+334	nsubj path fall prep pobj to
+335	appos nn path owner
+336	appos nn path captain
+337	dobj partmod path lead
+338	serve nsubj path prep pobj in
+339	nsubj path direct dobj
+340	path prep pobj with in meet
+341	beat path prep pobj dobj in
+342	path nn prep pobj of archbishop
+343	path prep pobj of appos unit
+344	champion nn path appos
+345	path coach prep pobj of appos
+346	path nn column prep pobj on
+347	path prep pobj for dobj leave
+348	bring nsubj path prep pobj to
+349	nsubj path kill dobj
+350	nsubj lead path dobj
+351	dobj write path rcmod
+352	path government nn prep pobj of
+353	path prep pobj with rcmod meet
+354	path nn prep pobj with meeting
+355	announce nsubj path prep pobj in
+356	path nn prep pobj of town
+357	include prep path pobj
+358	path agent prep pobj appos in
+359	path prep play pobj at rcmod
+360	path equivalent prep pobj of poss
+361	path advmod prep pobj of east
+362	nsubj path point prep pobj for dobj have
+363	path prep daughter of pobj appos
+364	path nn prep pobj retrospective at
+365	path prep pobj of appos trainer
+366	attend dobj path rcmod
+367	path prep pobj office poss in
+368	debut path nn prep pobj of
+369	dobj path rcmod join
+370	dobj path play dep
+371	poss path appos secretary
+372	appos program nn path
+373	path prep pobj of brother appos
+374	path prep pobj appos at psychologist
+375	path prep pobj for poss concerto
+376	path nn prep restaurant pobj in
+377	path prep perform pobj dobj at
+378	appos painter path nn
+379	path run prep pobj from to
+380	appos goalie path nn
+381	appos nn path goaltender
+382	nsubj path prep as pobj have
+383	nsubj path dobj cut
+384	path prep pobj of appos north
+385	nsubj hold path dobj
+386	hit nsubj path dep
+387	path prep pobj make rcmod in
+388	nsubj path prep pobj give to
+389	path prep pobj article on poss
+390	path nn prep pobj game at
+391	path nn prep pobj state in
+392	path prep center pobj appos in
+393	path prep pobj city appos in
+394	path district nn prep pobj of
+395	path prep pobj of west appos
+396	path coach prep pobj dobj in
+397	path prep pobj poss home in
+398	path be prep pobj dep in
+399	path prep publish pobj by nsubjpass
+400	nsubj attend path prep pobj in
+401	path keep prep pobj dobj in
+402	pay nsubj path iobj
+403	nsubj path dobj star
+404	lead path nn prep pobj dobj championship to
+405	appos outfielder nn path
+406	find nsubj path dobj
+407	path specialist prep pobj appos at
+408	path nn prep pobj at professor
+409	path prep pobj from mile to
+410	path prep pobj of appos home INV
+411	path prep pobj nsubjpass bear in
+412	path prep pobj dobj leave in
+413	path return prep pobj in to
+414	path nn prep specialist pobj at
+415	help path rcmod nsubj
+416	nsubj path prep pobj call on
+417	appos executive path poss
+418	path coach prep pobj at rcmod
+419	nsubj path score goal poss dobj
+420	nsubj path prep pobj award to
+421	path wife prep pobj appos in
+422	nsubj path prep pobj move to
+423	nsubj path prep reporter pobj for
+424	nsubj path prep pobj trade to
+425	poss column path nn
+426	nsubj path acquire prep pobj in
+427	nsubj dobj path name
+428	nsubj path die prep pobj hospital at in
+429	path prep pobj move dobj to
+430	appos path lawyer
+431	appos path poss manager
+432	appos nn path manager
+433	path prep pobj of appos arm
+434	urge nsubj path dobj
+435	nsubj path single dobj
+436	partmod path prep as pobj know
+437	path base prep pobj rcmod in
+438	path official nn prep pobj in
+439	nsubj path die prep pobj hospital in
+440	path nn prep pobj article on
+441	nsubj path prep pobj of supporter
+442	path prep pobj grader appos at
+443	nsubj path score prep pobj for
+444	include dobj path rcmod
+445	appos assistant path poss
+446	appos nn path firm
+447	dobj path create rcmod
+448	appos nn path attorney
+449	nsubj path dobj enter
+450	dobj path rcmod enter
+451	path nn against prep pobj final
+452	path share prep pobj with dobj
+453	nsubj persuade path dobj
+454	path column prep pobj on poss
+455	appos minister path poss
+456	path nn prep pobj leader in
+457	appos nn path baseman
+458	nsubj path prep pobj have in
+459	nsubj path prep pobj with start
+460	path prep pobj town on appos
+461	path prep pobj with connect dobj
+462	path nn prep pobj store in
+463	appos veteran nn path
+464	path advmod pobj of dep north
+465	poss production path dep
+466	nsubj write path dep
+467	path acquire prep pobj from dobj
+468	nsubj path be prep pobj on
+469	appos director path dep
+470	nsubj path prep pobj for do
+471	executive path prep pobj of appos
+472	path prep pobj manager appos in
+473	nsubj path prep steal pobj from
+474	nsubj dominate path dobj
+475	path prep pobj owner on appos
+476	nsubj rise path share prep pobj of on
+477	path nn prep pobj school in
+478	path see prep pobj dobj in
+479	succeed nsubj path dobj
+480	path prep pobj from to take
+481	poss path appos officer
+482	poss debut nn path
+483	dobj have path rcmod
+484	appos path poss baseman
+485	path be prep pobj at in
+486	path prep win pobj dobj in
+487	path work prep pobj with at
+488	path work prep pobj poss in
+489	shut nsubj path dobj
+490	nsubj dobj path make
+491	path nn prep theater pobj in
+492	lead path prep pobj dobj at
+493	nsubj path face dobj
+494	nsubj path prep pobj for have
+495	nsubj path call dep
+496	nsubj path prep pobj lose to
+497	path prep pobj of poss use
+498	path prep pobj remain at
+499	poss nn path office
+500	path appos mayor poss INV
+501	path prep pobj of mayor appos
+502	path prep join pobj dobj at
+503	path prep pobj poss studio in
+504	path prep pobj of poss acquisition
+505	path prep pobj merger with poss
+506	nsubj dobj path acquire
+507	path nn prep pobj of unit INV
+508	path prep pobj of poss takeover
+509	path prep pobj stake poss in
+510	path prep purchase pobj of poss
+511	appos path poss goaltender
+512	nsubj path prep as pobj make
+513	path prep pobj poss house in
+514	appos choice path poss
+515	nsubj path prep pobj put in
+516	path nn prep pobj of production
+517	appos executive nn path
+518	path prep pobj of poss review
+519	dobj path rcmod ask
+520	appos path poss producer
+521	partmod path write prep pobj directed by
+522	appos detective path nn
+523	appos nn path officer
+524	path biography prep pobj of poss
+525	nsubj path prep pobj of dobj review performance
+526	poss executive path appos
+527	path prep pobj at analyst in
+528	path prep pobj of dean appos
+529	path advmod pobj of west dep
+530	nsubj path win dep
+531	coach dobj path rcmod
+532	path prep pobj with rcmod win
+533	path prep name pobj by nsubjpass
+534	build nsubj path rcmod
+535	path prep pobj of governor appos
+536	path prep pobj of leader appos
+537	nsubj path prep pobj introduce to
+538	path prep pobj go from to
+539	nsubj path prep pobj from win
+540	path prep pobj move from to
+541	nsubj campaign path prep pobj in
+542	path prep pobj for dobj send
+543	dobj partmod path star
+544	path prep pobj give rcmod to
+545	path prep pobj grow rcmod in
+546	appos nn path native
+547	path spokesman nn prep pobj in
+548	path prep pobj of poss adaptation
+549	description path prep pobj of poss
+550	chief path nn prep pobj of
+551	path at prep pobj by present
+552	chief path nn prep pobj for
+553	path prep pobj of at professor
+554	path prep pobj with meeting in
+555	appos nn path rookie
+556	nsubj come path
+557	nsubj path die
+558	path spokesman prep pobj appos in
+559	partmod path prep produce pobj directed by
+560	path prep pobj dobj overlook in
+561	appos nn path general
+562	program nsubj path nn dobj review
+563	tmod nsubj path defeat
+564	flee nsubj path dobj
+565	appos nn path girl
+566	appos nn path writer
+567	path run prep pobj at rcmod
+568	nsubj path prep score pobj in
+569	nsubj path present dobj
+570	poss nn path center
+571	path be prep pobj with rcmod
+572	path director prep pobj of at
+573	path be prep pobj at rcmod
+574	appos nn path directed
+575	nsubj path eliminate dobj
+576	path prep pobj dobj trade to
+577	path prep pobj from dobj separate
+578	path prep pobj approach poss to
+579	nsubj path withdraw prep pobj from
+580	withdrawal path prep pobj from poss
+581	nsubj path prep pobj impose on
+582	path prep pobj at rcmod win
+583	path prep pobj at professor
+584	nsubj path prep pobj with meet
+585	nsubj path dobj trail
+586	nsubj path prep pobj at meet
+587	nsubj path prep pobj in take
+588	appos path president poss
+589	nsubj path prep join pobj with
+590	magazine path nn prep pobj in
+591	nsubj path score prep pobj in
+592	offer nsubj path prep pobj at
+593	path prep pobj of appos producer
+594	nsubj dobj path recall
+595	path prep play pobj on dobj
+596	nsubj path nn concert dobj review
+597	invite path prep pobj dobj to
+598	partmod path graduate prep pobj from
+599	dobj path rcmod head
+600	path advmod pobj of northwest dep
+601	nsubj path dobj buy
+602	path prep pobj for to send
+603	nsubj dobj path have
+604	nsubj path prep pobj at professor
+605	path prep lawyer pobj appos at
+606	path author prep pobj of appos INV
+607	path nn prep pobj letter article on poss
+608	outlast nsubj path dobj
+609	path nn prep pobj member from
+610	poss appos path group
+611	path prep pobj elect nsubjpass to
+612	nsubj path see dobj
+613	nsubj path move
+614	path nn prep pobj of member appos team
+615	bring nsubj path dobj
+616	path prep bid pobj for poss
+617	nsubj dobj path love
+618	nsubj path prep pobj land in
+619	block path prep pobj from appos
+620	path prep pobj of veteran appos
+621	lead path prep over pobj dobj
+622	appos nn path state
+623	path prep pobj for trade to
+624	nsubj path dobj put
+625	nsubj dobj path conduct
+626	13 path nn prep pobj pg by
+627	nsubj path prep pobj from take
+628	nsubj path prep pobj pass to
+629	dobj partmod path run
+630	path prep pobj trip from to
+631	path die prep pobj at in
+632	path nn prep museum pobj in
+633	path prep pobj of poss coverage
+634	appos path poss shortstop
+635	edge nsubj path dobj
+636	path die prep pobj of rcmod
+637	appos path poss chairman
+638	partmod path appoint dep
+639	path prep pobj from appos artist
+640	path prep pobj toward policy poss
+641	path prep pobj of appos husband
+642	pay nsubj path dobj
+643	nsubj path dobj discuss
+644	come path prep pobj from rcmod
+645	path wife prep pobj of appos
+646	path work prep pobj rcmod in
+647	poss nn path subsidiary
+648	nsubj path dobj route
+649	nsubj path dobj name INV
+650	path director prep pobj of appos INV
+651	nsubj find path prep pobj in
+652	nsubj come path prep pobj to
+653	path prep pobj rcmod in meet
+654	nsubj path prep pobj look like
+655	path prep pobj of member dep
+656	dobj play path rcmod
+657	creator path prep pobj of appos
+658	nsubj path run prep pobj in
+659	nsubj path prep pobj move in
+660	path prep pobj of appos editor
+661	path prep pobj stretch from to
+662	nsubj path different prep pobj from
+663	appos path poss coach
+664	appos nn path coordinator
+665	appos path poss coordinator
+666	path coordinator prep pobj of appos
+667	path prep pobj prefer dobj to
+668	path prep pobj dismiss by nsubjpass
+669	path prep take pobj dobj to
+670	path prep pobj dobj hold in
+671	path version prep pobj of poss
+672	path nn prep pobj gallery in
+673	partmod path base prep pobj company appos in
+674	path son wife survive prep pobj daughter of by dep appos dobj
+675	path prep pobj from travel to
+676	nsubj path get prep pobj to
+677	nn path film dep
+678	poss path movie dep
+679	nsubj path dobj go
+680	path prep pobj directed by dep
+681	path prep pobj hold rcmod in
+682	path headquarters prep pobj rcmod dobj have in
+683	path prep pobj appos at analyst
+684	path prep pobj congressman from appos
+685	path prep spend pobj rcmod in
+686	nsubj path prep pobj concert dobj review at
+687	path prep pobj appos secretary in
+688	partmod path prep pobj know in
+689	path prep pobj dobj in meet
+690	appos commissioner nn path
+691	show nn path dep
+692	path president prep pobj for appos
+693	path prep pobj of minister poss
+694	path prep pobj of appos princess
+695	appos nn path scientist
+696	appos chief path nn
+697	path prep pobj of member amod
+698	give path rcmod nsubj
+699	path director prep pobj for appos
+700	appos nn path city
+701	dobj path rcmod take
+702	path nn prep pobj in facility
+703	path prep pobj representative appos in
+704	path prep history pobj of poss
+705	nsubj path dobj hit
+706	poss nsubj path partner
+707	nsubj path dobj accuse
+708	path nn prep restaurant pobj on
+709	path prep pobj rcmod have in
+710	path prep pobj go in to
+711	nsubj path be prep pobj with
+712	appos friend path poss
+713	member nsubj path rcmod
+714	appos nn path guard
+715	path nn prep pobj branch in
+716	appos graduate nn path
+717	nsubj path prep report pobj from
+718	poss nn path team
+719	nsubj path have dep
+720	nsubj path prep pobj obtain from
+721	nsubj path prep pobj in meet
+722	nsubj order path dobj
+723	nsubj path run prep pobj into
+724	appos director path poss
+725	nsubj path student prep pobj at
+726	nsubj nn path correspondent
+727	nsubj chief path nn
+728	nsubj path prep play pobj at
+729	nsubj path see prep pobj in
+730	nsubj path prep provide pobj to
+731	nsubj path prep pobj from arrive
+732	path visit prep pobj by to
+733	nsubj path write prep pobj to
+734	appos nn path community
+735	path nn prep pobj conference in
+736	nsubj sell path prep pobj stake dobj in
+737	poss production nn path
+738	serve dobj path rcmod
+739	path prep pobj of east amod
+740	nsubj paint path dobj
+741	path prep pobj firm appos in
+742	path prep pobj with rcmod team
+743	path prep pobj trip poss to
+744	path advmod pobj dep back to
+745	partmod path prep publish pobj in
+746	attend path prep pobj dobj in
+747	nsubj write path dobj
+748	path nn prep pobj article by
+749	path run prep pobj dobj in
+750	nsubj path advmod be
+751	path return prep pobj poss to
+752	nsubj path prep pobj make in
+753	path university prep pobj of appos at professor
+754	path nn prep pobj of province
+755	region path nn prep pobj of
+756	region path prep pobj of appos
+757	region path nn poss INV
+758	chief path prep pobj appos at
+759	nsubj announce path prep pobj in
+760	path base nn prep pobj in
+761	path prep pobj for by design
+762	path dealer nn prep pobj in
+763	path nn prep pobj of INV side
+764	nsubj path rcmod describe
+765	flee path prep pobj rcmod to
+766	path prep pobj from in take
+767	path nn prep pobj office in
+768	path nn prep pobj team in
+769	nsubj path nn dobj review book
+770	nsubj come path rcmod
+771	path prep pobj loss in to
+772	path nn prep pobj of division
+773	nsubj path be prep pobj by
+774	appos town path nn
+775	path prep pobj adviser appos to
+776	path amod prep pobj of resident
+777	path at prep pobj dobj hold
+778	nsubj path run prep pobj for
+779	path prep pobj head at rcmod
+780	path prep pobj team poss in
+781	path prep pobj senator from appos
+782	nsubj path prep pobj goal for dobj have
+783	nsubj path own prep pobj of percent dobj
+784	nsubj path rcmod win
+785	nsubj identify path dobj
+786	appos nn path correspondent
+787	path prep pobj for appos analyst
+788	nsubj path prep pobj grow in
+789	appos agent path nn
+790	dobj path rcmod oppose
+791	appos nn path employee
+792	path prep pobj elect rcmod to
+793	nsubj path limit dobj
+794	appos nn path principal
+795	path author prep pobj of appos
+796	sign path dep
+797	nsubj path turn
+798	poss line nn path
+799	nsubj path establish dobj
+800	path prep pobj population in amod
+801	nsubj path point prep pobj to
+802	start nsubj path
+803	appos house nn path
+804	path prep pobj for leave rcmod
+805	path publisher prep pobj of appos
+806	nsubj path dobj fight
+807	nsubj path take dep
+808	tackle nsubj path dobj
+809	path director prep pobj appos at
+810	campaign path prep pobj poss in
+811	path prep pobj appos analyst in
+812	poss nn path representative
+813	poss nn path store
+814	appos state path nn
+815	appos nn path time
+816	path prep play with pobj rcmod
+817	appos site path nn
+818	partmod path prep perform pobj at
+819	anchor nsubj path dobj
+820	appos path poss pitcher
+821	nsubj path be prep pobj way on to
+822	path hire prep pobj by nsubjpass
+823	path acquire prep pobj from rcmod
+824	appos champion path poss
+825	appos dealer nn path
+826	path southwest prep pobj of appos
+827	path prep pobj defeat dobj in
+828	nsubj path prep pobj continue at
+829	path visit prep pobj in to
+830	nsubj path prep pobj drive to
+831	nsubj path prep pobj stay in
+832	path prep governor of pobj appos
+833	nsubj path dobj honor
+834	path official prep pobj appos in
+835	nsubj path be
+836	nsubj path prep pobj by dobj review book
+837	path prep pobj of appos archbishop
+838	path director prep co pobj of appos
+839	path nn prep pobj championship at
+840	appos man nn path
+841	path base prep pobj nsubjpass in
+842	partmod path prep pobj at present
+843	path nn prep pobj neighborhood in
+844	walk nsubj path dobj
+845	path prep over pobj appos winner
+846	nsubj path prep pobj donate to
+847	appos man path nn
+848	path prep pobj fight rcmod in
+849	path nn prep pobj meeting in
+850	path prep pobj with appos analyst
+851	path work prep pobj on rcmod
+852	path prep over pobj victory at
+853	path prep pobj at in meet
+854	path prep pobj from dobj buy
+855	path writer prep pobj for appos
+856	poss agent path appos
+857	nsubj path dobj agree
+858	dobj path rcmod buy
+859	appos nn path reporter
+860	nsubj dobj path represent
+861	nsubj path face prep pobj in
+862	path nn prep pobj representative in
+863	appos path daughter
+864	path acquire prep pobj for dobj
+865	appos linebacker nn path
+866	path prep pobj building at in
+867	path graduate prep pobj from rcmod
+868	dobj beat path rcmod
+869	path prep center pobj poss in
+870	nsubj path prep pobj drive from
+871	path prep pobj nsubjpass arrest in
+872	path nn prep pobj factory in
+873	path counsel prep pobj for appos
+874	appos nn path quarterback
+875	appos path poss quarterback
+876	nsubj path prep pobj for pitch
+877	path prep pobj for start rcmod
+878	nsubj path prep pobj begin at
+879	appos nn path adviser
+880	appos nn path center
+881	path work prep pobj for in
+882	appos nn path station
+883	path prep pobj travel rcmod to
+884	path claim prep pobj off from dobj waiver
+885	poss nn path studio
+886	path prep pobj nsubjpass marry to
+887	path prep pobj appos school in
+888	path nn win dobj rcmod title
+889	dobj path leave rcmod
+890	path equivalent prep pobj of appos
+891	nsubj path prep against pobj file
+892	appos path writer dep
+893	nsubj path prep pobj of editor
+894	path prep pobj of appos winner
+895	path station nn prep pobj in
+896	path prep pobj ambassador rcmod to
+897	path prep pobj ambassador appos to
+898	appos champion path nn
+899	path prep pobj representative appos to
+900	appos path capital poss
+901	appos nn path capital
+902	path prep loss pobj poss in
+903	appos nn path analyst
+904	path prep win pobj rcmod in
+905	appos nn path receiver
+906	path prep pobj living appos in
+907	path work prep pobj with rcmod
+908	hear nsubj path dobj
+909	path prep pobj of south appos
+910	appos nn path minister
+911	dobj path rcmod feature
+912	dobj path face rcmod
+913	path director prep produce pobj by dep release
+914	path prep chairman of pobj dep
+915	nsubj lead path prep pobj to
+916	nsubj path president prep pobj of
+917	poss path dep poem
+918	nsubj write path
+919	nsubj path score prep pobj goal for dobj
+920	nsubj path dobj save
+921	path prep pobj of appos rival
+922	appos path poss adviser
+923	nsubj path prep pobj build in
+924	appos nn path historian
+925	path prep worker pobj from appos
+926	nsubj path accord prep spend pobj dep to
+927	partmod path write prep pobj directed by release
+928	start dobj path rcmod
+929	nsubj path prep dispatch pobj to
+930	lift nsubj path dobj
+931	nsubj path prep play pobj by
+932	path prep pobj of view poss
+933	nsubj path prep pobj head to
+934	partmod path seat nn prep pobj by hold
+935	partmod path seat nn prep pobj vacate by
+936	path nn column prep pobj in
+937	path INV prep pobj by dobj review
+938	poss path appos novel
+939	path headquarters prep pobj poss in
+940	path prep play pobj by dep
+941	come path prep pobj from to
+942	appos path poss guard
+943	executive path prep pobj appos in
+944	path psychologist prep pobj appos in
+945	path acquire prep pobj for from
+946	dobj path produce rcmod
+947	son path prep pobj of dep
+948	nsubj path think prep pobj of
+949	path prep pobj expert on at
+950	path president prep pobj of rcmod
+951	path prep pobj build dobj in
+952	path prep pobj involvement poss in
+953	nsubj path prep restaurant pobj dobj review in
+954	magazine path nn prep pobj of appos editor
+955	path nn prep pobj of team
+956	nsubj path dobj sue
+957	path replace prep pobj with dobj
+958	nsubj path iobj send
+959	path prep pobj with at meet
+960	appos path restaurant poss
+961	appos town path amod
+962	appos path amod city
+963	poss brand path nn
+964	nsubj path dobj watch
+965	sell path prep pobj rcmod to
+966	nsubj path dobj hire
+967	path coach prep pobj appos at
+968	bring path prep pobj rcmod to
+969	series path nn against prep pobj
+970	path prep against pobj victory poss
+971	path prep pobj victory poss at
+972	drop nsubj path dobj
+973	nsubj path about talk prep pobj
+974	path prep pobj call from dobj
+975	appos nn path secretary
+976	path prep pobj appos college in
+977	nsubj path prep over pobj win
+978	nsubj come path prep pobj in
+979	path prep as pobj poss performance
+980	transfer path prep pobj from to
+981	nsubj recognize path dobj
+982	path prep pobj for appos producer
+983	path nn prep pobj of area
+984	nsubj path dobj promise
+985	poss path appos coach
+986	nsubj path stand prep pobj in
+987	path nn prep pobj campus in
+988	appos nn path editor
+989	appos nn path businessman
+990	path mother prep pobj of appos
+991	nsubj path prep perform pobj with
+992	nsubj path nn dobj win championship
+993	appos teammate nn path
+994	path prep pobj with dobj win
+995	path chapter nn prep pobj of
+996	poss path appos general
+997	path prep pobj move in to
+998	nsubj behind path fall prep pobj
+999	partmod path prep play pobj by
+1000	nsubj path announce
+1001	appos investor path nn
+1002	appos path agency poss
+1003	entry path prep pobj into poss
+1004	nsubj path prep pobj contribute to
+1005	nsubj trounce path dobj
+1006	nsubj upset path dobj
+1007	nn path play dep
+1008	path prep pobj owner appos in
+1009	path prep pobj flight from to
+1010	path prep pobj call dep in
+1011	nsubj path dobj surpass
+1012	poss path appos manager
+1013	partmod path base prep pobj organization appos in
+1014	path prep pobj remain dep at
+1015	appos nn path spokeswoman
+1016	partmod path prep create pobj by
+1017	path prep pobj of appos emeritus
+1018	nsubj path prep pobj pay for
+1019	serve path prep pobj during in
+1020	comment nn path
+1021	nsubj path part prep pobj of
+1022	nsubj appear path prep pobj in
+1023	appos gallery path nn
+1024	path prep pobj introduce by nsubjpass
+1025	path prep pobj open at in
+1026	appos path chairman
+1027	appos nn path chairman
+1028	dobj path rcmod run
+1029	nsubj path rcmod be
+1030	partmod path prep pobj directed by release
+1031	nsubj path prep pobj at make
+1032	nsubj path prep pobj by have
+1033	nsubj path dobj oppose
+1034	nsubj path dobj send
+1035	comment path nn prep pobj on
+1036	path prep join pobj dobj in
+1037	poss series path nn
+1038	nsubj path prep pobj establish in
+1039	appos path poss ambassador
+1040	p.m. path prep pobj at in
+1041	nsubj sign path contract prep pobj with dobj
+1042	nsubj path prep pobj stop at
+1043	nsubj regard path dobj
+1044	nsubj path view dobj
+1045	poss path appos coordinator
+1046	life path prep pobj poss in
+1047	offer nsubj path dobj
+1048	path return prep pobj from to
+1049	serve path prep pobj on rcmod
+1050	path prep pobj appos editor at
+1051	path edit director prep produce pobj by dep
+1052	path nn prep pobj camp in
+1053	path nn prep pobj force in
+1054	path nn prep pobj envoy to
+1055	nsubj path prep pobj into send
+1056	path agency nn prep pobj in
+1057	nsubj path rcmod take
+1058	include nsubj path dobj
+1059	nsubj path be prep pobj without
+1060	path prep link with pobj dobj
+1061	path prep pobj with relationship poss
+1062	path prep pobj concert poss at
+1063	nsubj path dobj treat
+1064	nsubj path prep pobj remain in
+1065	nsubj path prep pobj issue to
+1066	nsubj path prep pobj in partner
+1067	path role prep pobj poss in
+1068	nsubj path have
+1069	nsubj path dobj challenge
+1070	offer nsubj path iobj
+1071	bring path prep pobj into dobj
+1072	nsubj path prep place pobj in
+1073	partmod path prep publish pobj by
+1074	poss path appos owner
+1075	nsubj path prep take pobj to
+1076	nsubj path prep pobj in buy
+1077	nsubj path prep pobj propose to
+1078	partmod path prep pobj by release
+1079	nsubj path acquire prep pobj from
+1080	nsubj dobj path build
+1081	appos company path poss
+1082	suspend nsubj path dobj
+1083	nsubj path score against prep pobj
+1084	appos nn path suburb
+1085	path prep pobj by dobj review at performance
+1086	poss path appos center
+1087	path prep pobj of defeat poss
+1088	nsubj path prep pobj adviser to
+1089	poss nn path region
+1090	region path nn prep pobj of INV
+1091	poss appos path attorney
+1092	nsubj receive path rcmod
+1093	path nn prep pobj of play production
+1094	nsubj path give iobj
+1095	nsubj path prep spend pobj in
+1096	path prep pobj sale poss in
+1097	path prep employee of pobj appos
+1098	path replace prep pobj by nsubjpass
+1099	column path nn dep
+1100	path nn prep pobj of review
+1101	nsubj path prep pobj by dobj review performance
+1102	sponsor nsubj path dobj
+1103	nsubj path approve dobj
+1104	nsubj path dobj compare
+1105	nsubj path get rcmod
+1106	path prep over pobj victory in
+1107	nsubj path prep pobj living in
+1108	nsubj path prep pobj drive in
+1109	nsubj path dobj describe
+1110	appos path poss secretary
+1111	nsubj path dobj perform
+1112	lead path prep pobj rcmod in
+1113	path prep pobj by dep book
+1114	nsubj path prep pobj ask in
+1115	appos colonel path nn
+1116	path prep pobj of poss secretary
+1117	path be prep pobj in
+1118	path nn column prep pobj by
+1119	path prep pobj with agreement poss
+1120	nsubj path write prep pobj of
+1121	path director prep pobj appos in
+1122	nsubj path rcmod perform
+1123	nsubj path prep pobj call in
+1124	path prep pobj for appos secretary
+1125	path prep pobj follow by nsubjpass
+1126	nsubj path streak end poss dobj
+1127	path prep pobj over victory dobj lift to
+1128	nsubj path dobj own
+1129	path prep pobj with appos consultant
+1130	path prep pobj obtain from dobj
+1131	path prep pobj by dep direct
+1132	path nn prep festival pobj in
+1133	path wife prep pobj in with appos live
+1134	path include addition prep pobj dobj in to
+1135	nsubj path design dobj
+1136	path prep pobj pass poss to
+1137	path prep pobj architect appos in
+1138	path prep as pobj know rcmod
+1139	appos nn path supervisor
+1140	appos nn path politician
+1141	path prep reporter pobj for appos
+1142	path prep pobj connect dobj to
+1143	path tribute nn prep pobj to
+1144	appos path wife
+1145	path president nn prep pobj office appos at
+1146	appos nn path representative
+1147	appos nn path cornerback
+1148	poss path appos mother
+1149	nsubj path prep pobj file in
+1150	path prep pobj group appos in
+1151	nsubj path go
+1152	path prep pobj for dobj trade
+1153	path prep pobj of grandson appos
+1154	path prep pobj of portrayal poss
+1155	appos actor path nn
+1156	path nn prep pobj article in
+1157	path plant nn prep pobj in
+1158	nsubj path prep as pobj star
+1159	program path director prep nn pobj of appos
+1160	nsubj path dobj attend
+1161	nsubj play path rcmod
+1162	path prep pobj libretto by appos
+1163	nsubj dobj path place
+1164	appos nn path candidate
+1165	path nn prep pobj of leader
+1166	build dobj path rcmod
+1167	nsubj path call dobj
+1168	nsubj path prep pobj open in
+1169	nsubj path dobj run
+1170	nsubj path point score prep pobj for dobj
+1171	nsubj path dobj invoke
+1172	nsubj path prep pobj hold in
+1173	nsubj path advmod be pobj of dep ahead
+1174	appos goalie path poss
+1175	nsubj path prep pobj for start
+1176	nsubj path want rcmod
+1177	flee path prep pobj for dobj
+1178	poss path play dep
+1179	appos son path
+1180	nsubj do path dobj
+1181	path section nn poss INV
+1182	path nn prep pobj building in
+1183	path district nn poss INV
+1184	path nn poss INV neighborhood
+1185	path prep pobj appos neighborhood in
+1186	path nn prep pobj of neighborhood
+1187	path teach prep pobj at rcmod
+1188	nsubj lead path prep pobj in
+1189	path be prep pobj dep from
+1190	nsubj path prep pobj for win
+1191	path prep chef pobj appos at
+1192	path writer prep pobj appos in
+1193	path prep lawyer pobj for appos
+1194	nsubj path create dobj
+1195	nsubj path prep pobj lose in
+1196	nsubj path hit prep pobj to
+1197	path economist prep pobj of appos
+1198	path economist prep pobj for appos
+1199	appos nn path co.
+1200	path prep pobj of appos home
+1201	poss nn path club
+1202	path prep pobj interest poss in
+1203	nsubj path graduate prep pobj from
+1204	poss nn path secretary
+1205	path prep pobj direct rcmod in
+1206	nsubj path prep pobj with speak
+1207	nsubj path prep pobj for send
+1208	path part prep pobj of appos INV
+1209	path prep pobj of appos unit INV
+1210	nsubj path export prep pobj to
+1211	path invasion prep pobj of poss
+1212	path engineer prep pobj appos in
+1213	path nn prep coast pobj of
+1214	appos path poss daughter
+1215	path return prep pobj rcmod to
+1216	path nn prep correspondent pobj for
+1217	poss nn path men
+1218	nsubj dobj path appoint
+1219	attend path prep pobj dobj at
+1220	path prep pobj poss school in
+1221	nsubj path quote dobj
+1222	partmod path prep pobj by conduct
+1223	path prep pobj appos at producer
+1224	appos path poss representative
+1225	nsubj path prep emigrate pobj to
+1226	appos nn path consultant
+1227	nsubj path prep pobj in star
+1228	nsubj path work prep pobj in
+1229	nsubj path dobj back
+1230	path prep pobj hold at
+1231	along nsubj path be prep pobj with dep
+1232	bring path prep pobj from dobj
+1233	path prep pobj from to send
+1234	path prep pobj with affiliate rcmod
+1235	path prep apartment pobj poss in
+1236	nsubj path prep pobj with discuss
+1237	appos path poss rival
+1238	path officer prep pobj appos at
+1239	dobj path rcmod know
+1240	path prep pobj head appos at
+1241	path prep pobj organization appos in
+1242	nsubj path dobj pressure
+1243	path prep pobj nsubjpass hold in
+1244	path section prep pobj of in
+1245	poss comedy path dep
+1246	nsubj path prep pobj have to
+1247	path prep pobj rcmod in arrive
+1248	son path daughter dep appos
+1249	nsubj dobj path control
+1250	path prep pobj with make rcmod
+1251	path prep as pobj know dep
+1252	nsubj path prep pobj for head
+1253	path prep pobj appos broker in
+1254	appos nn path player
+1255	path capital appos INV poss
+1256	dobj partmod path play
+1257	path prep pobj go at to
+1258	appos company path nn
+1259	appos service path nn
+1260	path nn prep pobj of office
+1261	path prep pobj begin at rcmod
+1262	path prep pobj by appoint nsubjpass
+1263	nsubj path prep pobj look at
+1264	path write prep pobj with rcmod
+1265	nsubj receive path dobj
+1266	path send prep pobj rcmod to
+1267	path die prep pobj rcmod in
+1268	dobj path play
+1269	path prep store pobj on appos
+1270	nsubj path report
+1271	nsubj path make
+1272	path prep store pobj poss in
+1273	nsubj path rcmod spend
+1274	lead path prep pobj over victory dobj to
+1275	lose dobj path rcmod
+1276	appos nn path official
+1277	path prep pobj town appos in
+1278	nsubj path prep pobj focus on
+1279	path officer prep pobj for appos
+1280	path between nn prep pobj game
+1281	follow dobj path rcmod
+1282	succeed dobj path rcmod
+1283	path prep play pobj for in
+1284	poss nn path system
+1285	path prep pobj move rcmod to
+1286	partmod path organize prep pobj by
+1287	poss son path appos
+1288	appos path poss spokesman
+1289	nsubj work path
+1290	nsubj path prep pobj review at
+1291	nsubj speak path dobj
+1292	nsubj confirm path dobj
+1293	path be prep pobj from rcmod
+1294	nsubj path prep pobj for go
+1295	appos commissioner path poss
+1296	path prep pobj minister for appos
+1297	appos minister path nn
+1298	path prep pobj give by to
+1299	nsubj path dobj choose
+1300	path prep daughter pobj of
+1301	path son prep pobj of daughter dep
+1302	path prep pobj rcmod in take
+1303	poss record path nn
+1304	appos path scorer poss
+1305	path accord prep pobj dep to
+1306	portray dobj path rcmod
+1307	path prep correspondent pobj for appos
+1308	path prep pobj fight dobj in
+1309	path prep pobj of out drive dep dobj
+1310	pursue nsubj path dobj
+1311	nsubj path fellow prep pobj at
+1312	appos nn path sociologist
+1313	path fly prep pobj rcmod to
+1314	path prep against pobj game at
+1315	poss nn path headquarters
+1316	path prep pobj with affair poss
+1317	appos nn path photographer
+1318	nsubj path be prep as pobj
+1319	appos path poss head
+1320	path nn prep pobj of city INV
+1321	path prep pobj of city appos
+1322	path nn prep pobj bombing in
+1323	nsubj path prep pobj at take
+1324	program path nn prep pobj at
+1325	path nn prep pobj game in
+1326	path official prep pobj with appos
+1327	nsubj path prep pobj fight in
+1328	path prep pobj with poss game
+1329	nsubj path dobj celebrate
+1330	path run prep pobj at in
+1331	appos path maker dep
+1332	nsubj path describe
+1333	call path dep
+1334	path write prep pobj dobj in
+1335	nsubj chief path bureau nn prep pobj of
+1336	nsubj path prep pobj push through
+1337	path historian prep pobj appos at
+1338	nsubj path dobj greet
+1339	path part prep pobj of appos
+1340	path prep play pobj dobj to
+1341	accompany partmod path prep pobj by
+1342	path prep pobj by direct rcmod
+1343	appos path president
+1344	path prep pobj poss factory in
+1345	path nn prep pobj championship in
+1346	path appearance prep pobj poss in
+1347	appos nn path governor
+1348	own dobj path rcmod
+1349	nsubj path face rcmod
+1350	path prep pobj dobj in buy
+1351	nsubj address path dobj
+1352	path nn prep pobj of a.g.
+1353	represent path nn lawyer dobj rcmod
+1354	path nn prep pobj group in
+1355	appos agent path poss
+1356	path part prep pobj of rcmod
+1357	path prep pobj of appos administrator
+1358	poss winner nn path
+1359	nsubj announce path prep pobj of appointment dobj
+1360	pitcher path prep pobj for appos
+1361	path tribute prep pobj poss to
+1362	path officer prep pobj of appos
+1363	path nn prep pobj of town INV
+1364	appos path poss fielder
+1365	appos hitter path poss
+1366	nsubj path prep owe pobj to
+1367	nsubj debut path nn dobj make
+1368	path prep pobj by review at
+1369	signed nsubj path re dobj
+1370	nsubj path prep pobj INV have in
+1371	path prep pobj of appos host
+1372	nsubj path leave
+1373	path prep direct pobj at rcmod
+1374	partmod path prep pobj by found
+1375	path prep pobj by nsubjpass found
+1376	dobj path rcmod put
+1377	come path prep pobj rcmod to
+1378	nsubj path prep pobj introduce in
+1379	path return prep pobj dobj to
+1380	nsubj path prep play with pobj
+1381	path nn prep pobj of fame
+1382	path prep pobj from switch to
+1383	nsubj sell path prep pobj in
+1384	path prep pobj for dobj win
+1385	appos nn path restaurant
+1386	nsubj path prep pobj enter in
+1387	appos path poss wife
+1388	path nn prep pobj tournament in
+1389	partmod path acquire prep pobj from
+1390	path prep pobj senior appos at
+1391	nsubj path prep pobj from travel
+1392	path prep pobj of capital appos INV
+1393	path prep pobj appos at scientist
+1394	appos nn path economist
+1395	path prep pobj poss school appos at professor
+1396	carry path prep pobj from to
+1397	nsubj path nn prep respond pobj letter article to
+1398	path director prep pobj directed by dep appos
+1399	homer path prep pobj off poss
+1400	appos nn path envoy
+1401	nsubj path prep against play pobj
+1402	poss nsubj path book
+1403	path role prep pobj of in
+1404	nsubj path prep pobj with deal
+1405	nsubj path prep as pobj describe
+1406	nsubj observe path dobj
+1407	path prep pobj retire from rcmod
+1408	serve path prep pobj rcmod in
+1409	nsubj path prep create pobj for
+1410	path prep pobj loss at to
+1411	path prep play pobj dobj at
+1412	path prep against pobj pit dobj
+1413	nsubj path prep pobj from borrow
+1414	poss path appos party
+1415	path between nn prep pobj street
+1416	path prep pobj go rcmod to
+1417	appos path poss firm
+1418	path nn prep pobj of company
+1419	path advmod pobj also dep from
+1420	poss parent path appos
+1421	path portrait prep pobj of poss
+1422	nsubj path prep against pobj take
+1423	nsubj path prep pobj defeat in
+1424	lose path rcmod nsubj
+1425	nsubj confront path dobj
+1426	appos nn path group
+1427	path nn prep pobj production in
+1428	path nn prep pobj member in
+1429	nsubj path prep pobj put on
+1430	path prep name pobj nsubjpass at
+1431	path nn prep pobj of profile
+1432	assistant path prep pobj appos to
+1433	nsubj path attribute prep pobj to
+1434	path prep pobj village appos in
+1435	path prep pobj appos consultant in
+1436	appear path prep pobj rcmod in
+1437	path prep pobj for appos guard
+1438	path contract prep pobj with poss
+1439	path prep pobj attack on poss
+1440	appos path commander poss
+1441	nsubj path prep pobj begin in
+1442	path novel dep poss INV
+1443	path prep community pobj in amod
+1444	like nsubj path dobj
+1445	path nn prep director pobj of
+1446	nsubj path rcmod live
+1447	lend nsubj path prep pobj to
+1448	path run prep pobj for rcmod
+1449	path prep perform pobj at rcmod
+1450	replace partmod path dobj
+1451	nsubj path prep own pobj in
+1452	path fellow prep pobj appos at
+1453	path chain prep pobj appos in
+1454	path kill prep pobj rcmod in
+1455	sign path prep pobj with rcmod
+1456	nsubj path prep shift pobj to
+1457	path nn prep column pobj letter on poss
+1458	nsubj path dobj pull
+1459	dobj path rcmod send
+1460	nsubj score path dep
+1461	nsubj path teach prep pobj at
+1462	nsubj path confirm prep pobj in
+1463	path nn prep pobj directed by
+1464	path nn prep pobj of manager office appos
+1465	path prep pobj of appos secretary
+1466	path nn prep pobj site in
+1467	nsubj path get prep pobj goal from dobj
+1468	partmod path prep perform pobj by
+1469	path shop prep pobj appos in
+1470	path prep pobj appos at partner
+1471	seek nsubj path prep pobj from
+1472	path prep pobj meeting poss in
+1473	path replace prep pobj dobj in
+1474	nsubj path accept prep pobj from
+1475	appos member path nn
+1476	nsubj path talk prep pobj to
+1477	nsubj thank path dobj
+1478	path nn prep pobj show at
+1479	path newspaper prep pobj appos in
+1480	path director produce prep pobj by appos amod
+1481	poss show nn path
+1482	path get prep pobj from to
+1483	path nn prep pobj flight to
+1484	path prep pobj open rcmod in
+1485	nsubj path prep pobj suggest to
+1486	path spokesman prep pobj appos at
+1487	nsubj path prep against pobj start
+1488	path prep pobj bear in
+1489	assistant path prep pobj for appos
+1490	path prep pobj from appos guard
+1491	nsubj path prep pobj describe in
+1492	nsubj sign path prep pobj with deal dobj
+1493	nsubj sell path rcmod
+1494	path operation prep pobj poss in
+1495	appos catcher path poss
+1496	nsubj path rcmod acquire
+1497	nsubj path sing dobj
+1498	appos negotiator nn path
+1499	path prep pobj by nsubjpass criticize
+1500	nsubj path dobj transform
+1501	nsubj path prep pobj of home
+1502	appos nn path safety
+1503	nsubj path prep pobj lose at
+1504	nsubj path prep pobj defeat at
+1505	path agent prep pobj from appos
+1506	path prep pobj show at rcmod
+1507	path interview nn prep pobj with
+1508	beat path prep pobj by nsubjpass
+1509	nsubj path score as prep pobj
+1510	path president chapter nn prep pobj of appos
+1511	appos street path
+1512	path prep center pobj for in
+1513	nsubj throw path dobj
+1514	nsubj lose path dobj
+1515	nsubj path prep pobj of mayor
+1516	path prep pobj of member on
+1517	path prep own pobj dobj in
+1518	path prep pobj of subsidiary appos
+1519	shoot nsubj path dobj
+1520	nsubj path prep pobj move into
+1521	path prep pobj with poss association
+1522	nsubj path prep pobj open at
+1523	path nn version prep pobj of
+1524	path replace prep pobj dobj at
+1525	nsubj drive path dobj
+1526	appos path poss team
+1527	path prep pobj nsubjpass quote in
+1528	nsubj path at prep pobj hold
+1529	nsubj path prep pobj conduct in
+1530	nsubj come path dep
+1531	path pursuit prep pobj of poss
+1532	partmod path translate prep pobj by
+1533	path prep pobj with collaboration poss
+1534	path prep pobj appos operator in
+1535	path own prep pobj rcmod in
+1536	poss software nn path
+1537	chief path prep pobj of appos editor in
+1538	path prep pobj start rcmod in
+1539	nsubj lead path
+1540	nsubj path dobj award
+1541	nsubj summon path dobj
+1542	path prep pobj by concert dobj review at
+1543	path prep pobj drive from dobj
+1544	path author biography prep pobj of appos
+1545	path prep pobj of appos biographer
+1546	path nephew prep pobj of appos
+1547	nsubj path prep join pobj from
+1548	path prep pobj of division head appos poss
+1549	dobj drive path rcmod
+1550	path prep pobj extend from to
+1551	nsubj path prep pobj from buy
+1552	partmod path own prep pobj by INV
+1553	poss company path nn
+1554	nsubj path accord prep pobj dep have to
+1555	nsubj nominate path dobj
+1556	appos nn path mother
+1557	poss path appos governor
+1558	path prep pobj travel in to
+1559	path prep pobj by nsubjpass represent
+1560	nsubj path hit prep pobj for
+1561	path prep pobj member appos in
+1562	path nn prep pobj attack on
+1563	poss path dep novel
+1564	path nn prep pobj of unit
+1565	partmod path prep pobj for design
+1566	poss house nn path
+1567	appos columnist nn path
+1568	appos nn path mayor
+1569	appos strategist path nn
+1570	path operation nn prep pobj in
+1571	mission path nn prep pobj in
+1572	path prep pobj begin rcmod in
+1573	nsubj path pull prep pobj of out dep
+1574	path nn prep pobj troops in
+1575	mission path nn prep pobj to
+1576	path nn against prep pobj sanction
+1577	path presence nn prep pobj in
+1578	path maker prep pobj of appos
+1579	dobj path rcmod meet
+1580	official nn path appos
+1581	path nn prep pobj of village
+1582	path be prep pobj rcmod to
+1583	use dobj path rcmod
+1584	path own prep pobj by nsubjpass
+1585	nsubj dobj path rule
+1586	path pro prep pobj appos at
+1587	path son prep pobj of
+1588	appos path poss envoy
+1589	path nn prep pobj hotel in
+1590	nn path column
+1591	path nn prep pobj service in
+1592	path president nn prep pobj of appos unit
+1593	nsubj path face prep pobj challenge from dobj
+1594	poss path article dep
+1595	path edit director prep music pobj by dep
+1596	nsubj path unlike prep pobj have
+1597	nsubj path get prep pobj from
+1598	partmod path prep pobj by adapt
+1599	nsubj path hit prep pobj in
+1600	attend path prep pobj rcmod in
+1601	path prep pobj dobj at win
+1602	path widow prep pobj of appos
+1603	path prep pobj hold at in
+1604	nsubj path go dep
+1605	path student prep pobj appos in
+1606	path prep pobj rcmod at professor
+1607	nsubj path dobj strip
+1608	path prep pobj for appos designer
+1609	appos nn path director
+1610	nsubj path prep pobj add to
+1611	path prep pobj found rcmod in
+1612	nsubj path prep pobj speak at
+1613	serve path prep pobj with in
+1614	serve path prep pobj in
+1615	nsubj path set prep pobj at
+1616	path director prep pobj at in
+1617	nsubj path prep pobj rely on
+1618	nsubj path director prep pobj of
+1619	nsubj try path dobj
+1620	path prep pobj nsubjpass trade to
+1621	path prep pobj appos delegate to
+1622	path man prep pobj from appos
+1623	nsubj path record poss dobj break
+1624	partmod path base prep pobj novel on by
+1625	strategist path prep pobj appos in
+1626	nsubj path prep pobj go from
+1627	path prep pobj show poss at
+1628	path nn prep pobj concert at
+1629	path prep pobj appos professor in
+1630	path dealer prep pobj from appos
+1631	path prep pobj of meeting in
+1632	path prep publish pobj by rcmod
+1633	path prep pobj enter from dobj
+1634	nn path article
+1635	appos street nn path
+1636	path prep pobj rcmod at have
+1637	nsubj path dobj dismiss
+1638	poss path story dep
+1639	nsubj path prep pobj host to
+1640	poss affiliate path nn
+1641	path prep pobj manage rcmod in
+1642	path fly prep pobj nsubjpass to
+1643	poss nn path community
+1644	path property nn prep pobj in
+1645	path nn prep pobj area in
+1646	nsubj path be prep pobj from
+1647	path prep pobj member from appos
+1648	hold path rcmod nsubjpass
+1649	announce nsubj path dep
+1650	appos nn path counterpart
+1651	partmod path prep pobj by head
+1652	path nn prep pobj of people
+1653	path counsel prep pobj of appos
+1654	path prep pobj rcmod represent in
+1655	defeat path rcmod nsubj
+1656	nsubj path prep pobj for vote
+1657	path prep pobj at professor amod
+1658	path museum prep pobj of in
+1659	path succeed prep pobj by nsubjpass
+1660	nsubj path follow dobj
+1661	path president prep pobj of
+1662	path return nn prep pobj to
+1663	appos nn path freshman
+1664	nsubj path prep pobj start at
+1665	nsubj path prep correspondent pobj for
+1666	path prep link pobj dobj to
+1667	dobj lead path rcmod
+1668	path nn prep pobj of professor
+1669	movie nn path dep
+1670	appos path analyst poss
+1671	nsubj path prep pobj go in
+1672	path about prep pobj article poss
+1673	path prep pobj leader appos at
+1674	nsubj path nn production dobj review
+1675	path prep pobj manager of in
+1676	carry nsubj path dobj
+1677	path prep pobj for appos investigator
+1678	appos path poss candidate
+1679	partmod path own prep pobj company by appos
+1680	path prep pobj with attorney appos
+1681	nsubj path produce dobj
+1682	appos author nn path
+1683	nsubj path sing prep pobj in
+1684	call path rcmod nsubj
+1685	path prep pobj call dep at
+1686	appos driver path nn
+1687	path prep pobj start dobj in
+1688	path run prep pobj rcmod in
+1689	path film dep poss INV
+1690	appos path manager
+1691	appos nn path a.
+1692	singer path prep pobj from appos
+1693	path prep pobj know nsubjpass in
+1694	path prep pobj with dobj compare
+1695	path prep pobj to in take
+1696	find path rcmod nsubj
+1697	path prep take pobj rcmod to
+1698	nsubj dobj path turn
+1699	path nn prep pobj victory in
+1700	path nn prep pobj market in
+1701	appos nn path billionaire
+1702	path prep pobj dobj at represent
+1703	nsubj path dobj top
+1704	nsubj path prep pobj undergo at
+1705	path prep pobj by nsubjpass buy
+1706	nsubj path prep play pobj to
+1707	nsubj lead path prep pobj at
+1708	path prep pobj lose at to
+1709	dobj partmod path feature
+1710	nsubj path dobj teach
+1711	appos nn path rival
+1712	nsubj path rcmod buy
+1713	path own prep pobj by rcmod
+1714	path prep pobj introduce dobj to
+1715	path prep pobj street appos in
+1716	nsubj sell path dobj
+1717	appos assistant nn path
+1718	path prep join pobj from dobj
+1719	nsubj path dobj congratulate
+1720	strategist path prep pobj appos at
+1721	nsubj lead path prep pobj with
+1722	poss path film dep
+1723	nsubj path argue
+1724	nsubj path president prep as pobj of resign
+1725	path president appos poss INV
+1726	path appos leader poss INV
+1727	path man prep pobj appos in
+1728	path prep daughter of pobj brother dep appos
+1729	nsubj path contract prep pobj with agree to
+1730	path write prep pobj by dep
+1731	appos specialist path nn
+1732	nsubj path get prep pobj at
+1733	nsubj critic path prep pobj of
+1734	appos nn path dancer
+1735	nsubj path be prep pobj to
+1736	nsubj path author dep
+1737	nsubj path deliver prep pobj to
+1738	partmod path produce prep pobj by
+1739	path prep pobj drive from to
+1740	assemblyman path prep pobj from appos
+1741	path prep worker pobj appos in
+1742	partmod path base prep pobj appos consultant in
+1743	path nn prep pobj of north
+1744	path prep pobj leader from appos
+1745	path nn prep pobj company in
+1746	path nn prep pobj at analyst
+1747	nsubj path prep pobj from learn
+1748	poss population path amod
+1749	nsubj path add
+1750	nsubj path prep pobj explain to
+1751	poss minority path amod
+1752	poss appos path bank
+1753	path prep pobj of study appos at professor
+1754	path prep pobj head dobj in
+1755	nsubj path write prep pobj for
+1756	path prep pobj introduce by in
+1757	singer path prep pobj of appos
+1758	nsubj path visit prep pobj dobj make to
+1759	path edit director prep pobj by dep release
+1760	partmod path lead prep pobj by
+1761	appos path poss receiver
+1762	nsubj path prep pobj start in
+1763	nsubj path direct rcmod
+1764	sell path prep pobj dobj to
+1765	nsubj path support dobj
+1766	path prep pobj from appos professor
+1767	path prep pobj of group appos
+1768	path prep suburb of pobj appos
+1769	nsubj invite path dobj
+1770	appos nn path engineer
+1771	path prep pobj of conductor appos
+1772	path prep pobj from appos mile
+1773	path son prep pobj of appos
+1774	nsubj path prep pobj close at
+1775	nsubj critical path prep pobj of
+1776	appos nn path banker
+1777	see dobj path rcmod
+1778	appos nn path priest
+1779	nsubj path set prep pobj for
+1780	nsubj path prep bid pobj for dobj make
+1781	dep nn path series
+1782	path prep pobj dobj in take
+1783	nsubj receive path
+1784	dobj path found rcmod
+1785	nsubj path dobj defend
+1786	nsubj path prep pobj at use
+1787	path prep pobj of member in
+1788	partmod path prep pobj make in
+1789	nsubj path get prep pobj in
+1790	path prep pobj with relation poss
+1791	nsubj path dobj fault
+1792	path prep pobj by nsubjpass draft
+1793	appos path poss general
+1794	path prep play pobj by nsubjpass
+1795	path prep pobj band from appos
+1796	path prep pobj with rcmod live
+1797	poss nn path party
+1798	path prep pobj of appos sister
+1799	path prep governor of pobj rcmod
+1800	partmod path prep pobj by make
+1801	path prep pobj adviser rcmod to
+1802	partmod path edit prep pobj directed by
+1803	dobj beat path dep
+1804	poss nn path season
+1805	path prep pobj people in amod
+1806	nsubj path relocate prep pobj to
+1807	nsubj dobj path match
+1808	path nn against prep pobj game
+1809	open nsubj path rcmod
+1810	path director produce prep pobj by dep appos
+1811	path agency prep pobj of appos
+1812	prepare nsubj path prep against pobj for game
+1813	nsubj path receive prep pobj at
+1814	nsubj dobj path pick
+1815	nsubj path prep governor of pobj
+1816	series path nn prep pobj at
+1817	nsubj path prep pobj with go
+1818	path presence prep pobj poss in
+1819	appos nn path scholar
+1820	path prep chairman of pobj appos at department
+1821	nsubj path prep pobj of capital
+1822	nsubj lure path dobj
+1823	path prep center pobj from appos
+1824	path prep daughter of pobj dep
+1825	path own prep pobj by INV rcmod
+1826	path prep pobj representative poss at
+1827	path prep pobj representative poss to
+1828	path nn prep pobj party in
+1829	path nn prep pobj event in
+1830	accompany path prep pobj dobj to
+1831	poss appos path player
+1832	nsubj score path
+1833	nsubj lead path dep
+1834	path prep pobj of appos colleague
+1835	path prep pobj candidate appos in
+1836	appos nn path comptroller
+1837	path prep pobj leader appos in
+1838	program path nn prep pobj in
+1839	path son wife survive prep pobj of by appos dobj
+1840	nsubj dobj path reach
+1841	path nn prep pobj letter on review
+1842	path prep pobj by nsubjpass select
+1843	path prep restaurant pobj on poss
+1844	flee nsubj path prep pobj to
+1845	path prep pobj from in arrive
+1846	path nn prep pobj of side
+1847	begin nsubj path
+1848	path prep pobj of appos judge
+1849	poss nsubj path novel
+1850	appos path defenseman poss
+1851	nsubj path prep pobj at arrive
+1852	nsubj path raise prep pobj for
+1853	appos nn path alumnus
+1854	club path nn prep pobj in
+1855	path prep pobj lose rcmod in
+1856	partmod path base prep pobj group appos in
+1857	path nn prep pobj of city
+1858	campaign path nn prep pobj in
+1859	path nn prep play pobj in
+1860	program path director prep pobj of for appos
+1861	program path director prep pobj of appos poss
+1862	path nn prep pobj of island
+1863	nsubj path make dep
+1864	path set prep pobj rcmod in
+1865	path prep pobj move from rcmod
+1866	partmod path prep pobj by back
+1867	path prep pobj into dobj turn
+1868	partmod path prep pobj choreograph by
+1869	appos nn path poet
+1870	path official prep pobj of appos
+1871	path prep pobj of owner on
+1872	path nn prep pobj resort in
+1873	appos path professor dep
+1874	path prep pobj at rcmod take
+1875	nsubj path talk prep pobj with
+1876	nsubj path prep play pobj without
+1877	path prep pobj for buyer appos
+1878	path prep pobj of division appos
+1879	path agent prep pobj for appos
+1880	path prep pobj poss delegate to
+1881	critic path prep pobj for appos
+1882	path nn prep worker pobj in
+1883	path prep pobj move to
+1884	nsubj dobj path investigate
+1885	nsubj path prep study pobj at
+1886	nsubj path prep pobj turn in
+1887	nsubj path prep daughter of pobj
+1888	path prep pobj with rcmod have
+1889	path prep pobj of editor rcmod
+1890	path portrait nn prep pobj of
+1891	nsubj path hand dobj
+1892	path prep pobj of poss performance
+1893	path prep pobj in live
+1894	poss nn path victory
+1895	path president prep pobj of for
+1896	poss nn path operation
+1897	surprise nsubj path dobj
+1898	nsubj dobj path warn
+1899	executive path nn prep pobj in
+1900	path prep pobj newsletter appos in
+1901	path prep pobj appos producer in
+1902	path prep history pobj of by
+1903	partmod path write prep produce pobj directed by
+1904	lead path prep pobj rcmod to
+1905	nsubj path dobj wear
+1906	path q. nn prep pobj in
+1907	appos nn path woman
+1908	woman path prep pobj from appos
+1909	path music prep pobj by appos
+1910	path district prep pobj poss in
+1911	poss path book dep
+1912	path prep pobj make rcmod to
+1913	path student prep pobj appos at
+1914	nsubj path fall prep pobj with love in
+1915	path prep pobj appos at emeritus
+1916	nsubj path prep against pobj use
+1917	nsubj press path dobj
+1918	appos company path dep
+1919	partmod path prep pobj hold in
+1920	appos nn path maker
+1921	path prep pobj of brother dep appos sister
+1922	poss nn path bureau
+1923	path get prep pobj from dobj
+1924	executive path appos poss INV
+1925	path prep pobj of architect appos
+1926	path nn prep pobj of letter on review
+1927	nsubj path prep pobj call for
+1928	path occupation prep pobj of poss
+1929	path prep pobj defeat by nsubjpass
+1930	nsubj path dobj consider
+1931	poss man path appos
+1932	dobj path rcmod star
+1933	path prep produce pobj for by
+1934	nsubj throw path prep pobj at
+1935	path prep pobj dobj review at
+1936	path prep pobj ask dobj in
+1937	appos editor path poss
+1938	path teacher prep pobj appos in
+1939	curator path prep pobj appos at
+1940	elect nsubj path dobj
+1941	nsubj path prep pobj place of start in
+1942	path prep co pobj of founder appos
+1943	nsubj path negotiate prep pobj with
+1944	path prep pobj rcmod from have
+1945	nsubj path prep pobj into turn
+1946	path player prep pobj appos in
+1947	partmod path prep pobj bear in
+1948	start nsubj path dobj
+1949	poss senator path appos
+1950	appos path producer dep
+1951	appos counsel path poss
+1952	poss nn path coast
+1953	path visit prep pobj dobj at
+1954	nurse path prep pobj from appos
+1955	dobj receive path rcmod
+1956	path be prep pobj with in
+1957	path prep lawyer pobj appos in
+1958	appos nn path figure
+1959	appos nn path boss
+1960	offer path prep pobj for poss
+1961	path prep pobj follow for rcmod
+1962	nsubj path dobj recommend
+1963	path nn prep pobj race in
+1964	path nn apartment prep pobj of
+1965	nsubj path prep pobj with do
+1966	nsubj dobj path cover
+1967	path nn prep pobj firm in
+1968	nsubj force path dobj
+1969	path prep pobj poss investment in
+1970	nsubj path dobj obtain
+1971	offer nsubj path rcmod
+1972	path nn prep pobj of member
+1973	nsubj path prep against pobj pitch
+1974	nn path school
+1975	path wife survive prep pobj daughter of by appos dobj
+1976	nsubj path hit prep pobj off
+1977	poss path appos cousin
+1978	path bishop prep pobj of appos
+1979	nsubj note path
+1980	call nsubj path dep
+1981	path prep pobj poss at performance
+1982	nsubj champion path nn
+1983	appos critic path nn
+1984	path nn prep pobj of south
+1985	nsubj path prep chairman of pobj
+1986	nsubj path meet
+1987	appos nn path aide
+1988	nsubj draw path dobj
+1989	nsubj path rcmod agree
+1990	path prep pobj poss commitment to
+1991	poss sister path appos
+1992	nsubj designate path dobj
+1993	poss path appos leader
+1994	merge nsubj path prep pobj with
+1995	nsubj path be among prep pobj
+1996	besides path include prep pobj dobj
+1997	nsubj path prep against pobj have
+1998	path prep restaurant pobj poss in
+1999	path nn prep pobj church in
+2000	dobj path train rcmod
+2001	nsubj path work prep pobj at
+2002	path nn prep pobj studio in
+2003	nsubj path prep pobj compare to
+2004	appos nn path agency
+2005	poss unit nn path
+2006	poss nn path division
+2007	nsubj path run prep pobj with
+2008	path nn prep pobj office appos in partner
+2009	appos path amod country
+2010	poss path appos rival
+2011	merge path prep pobj with dobj
+2012	nsubj path prep pobj of owner
+2013	path economist prep pobj with appos
+2014	path prep pobj for attorney appos
+2015	chase nsubj path dobj
+2016	near path prep pobj rcmod live
+2017	path director prep pobj of rcmod
+2018	waive nsubj path dobj
+2019	nsubj dobj path knock
+2020	path send prep pobj nsubjpass to
+2021	path prep pobj at professor in
+2022	appos nn path school
+2023	nsubj path look
+2024	path venture prep pobj of appos
+2025	appos nn path congressman
+2026	appos path poss trainer
+2027	appos man path poss
+2028	report nsubj path rcmod
+2029	nsubj path prep pobj conduct at
+2030	poss nn path building
+2031	path include prep pobj INV
+2032	nsubj path prep settle pobj in
+2033	path acquire prep pobj dobj in
+2034	path prep tie pobj with nsubjpass
+2035	path prep settle pobj rcmod in
+2036	sack nsubj path dobj
+2037	appos path player amod
+2038	poss child path appos
+2039	path surgeon prep pobj appos at
+2040	nsubj path dobj welcome
+2041	poss nn path business
+2042	nsubj path dobj set
+2043	nsubj path prep pobj with make
+2044	nsubj path refer prep pobj to
+2045	poss nn path plant
+2046	appos widow path poss
+2047	path prep play with pobj dobj
+2048	path prep pobj dobj have in
+2049	nsubj path prep pobj begin to
+2050	path chancellor prep pobj of appos
+2051	appos path poss leader
+2052	no. nn path dep
+2053	path nn prep pobj system in
+2054	path prep play pobj nsubjpass in
+2055	appos nn path judge
+2056	nsubj path prep pobj with begin
+2057	path invasion nn prep pobj of
+2058	nsubj path prep pobj like have
+2059	nsubj path prep pobj open on
+2060	appos nn path club
+2061	poss chief path appos
+2062	partmod path train prep pobj by
+2063	path prep pobj of poss criticism
+2064	nsubj hold path
+2065	nsubj path author prep pobj of
+2066	path prep pobj supervisor for appos
+2067	appos path dep star
+2068	path prep lawyer pobj from appos
+2069	nsubj grant path prep pobj to
+2070	appos path player poss
+2071	path prep spokeswoman pobj office for appos poss
+2072	nsubj path dobj cite
+2073	appos author path dep
+2074	partmod path set prep pobj in
+2075	path director prep nn pobj of office appos
+2076	commander path nn prep pobj in
+2077	path president nn prep pobj of
+2078	poss path appos daughter
+2079	nsubj come path prep pobj into
+2080	path nn prep pobj of representative
+2081	cover dobj path rcmod
+2082	appos nn path office
+2083	path prep pobj building on in
+2084	nsubj path than prep pobj better
+2085	production nn path dep
+2086	path receive prep pobj from rcmod
+2087	path prep against pobj suit poss
+2088	open nsubj path dobj
+2089	path officer prep pobj appos in
+2090	nsubj dobj path outscore
+2091	path prep pobj of sale to
+2092	dobj path rcmod challenge
+2093	path nn prep pobj of branch
+2094	path prep pobj representative poss in
+2095	nsubj dobj path endorse
+2096	path prep play pobj on rcmod
+2097	partmod path edit director prep pobj directed by dep appos
+2098	path prep create pobj by nsubjpass
+2099	poss nn path restaurant
+2100	poss nn path group
+2101	down nsubj path dobj
+2102	region path nn prep pobj in
+2103	appos path poss successor
+2104	path prep pobj successor appos to
+2105	dobj path rcmod advise
+2106	nsubj path get dobj
+2107	critic path prep pobj of appos
+2108	club path prep pobj appos in
+2109	path prep pobj by to send
+2110	appos nn path organization
+2111	appos publisher path poss
+2112	nsubj path prep pobj for trade
+2113	path prep pobj of dean at
+2114	nsubj path prep pobj give at
+2115	sue path prep pobj dobj in
+2116	accompany nsubj path dobj
+2117	nsubj path invest prep pobj in
+2118	appos nn path shortstop
+2119	offer nsubj path
+2120	nsubj path prep pobj with open
+2121	psychiatrist path prep pobj appos at
+2122	path prep pobj of associate appos
+2123	poss editor path appos
+2124	appos nn path chain
+2125	friend path prep pobj of appos
+2126	nsubj dobj path cross
+2127	offer nsubj path prep pobj through
+2128	nsubj dobj path bless
+2129	path prep spend pobj with rcmod
+2130	path prep name pobj dep in
+2131	appos son path poss
+2132	nsubj path prep pobj with agreement dobj have
+2133	partmod path write prep pobj in
+2134	path prep pobj attorney appos in
+2135	path prep pobj by nsubjpass present
+2136	path advmod pobj of dep ahead
+2137	nsubj path prep pobj from make
+2138	come path prep pobj from INV to
+2139	offer nsubj path prep pobj for
+2140	nsubj path dobj introduce
+2141	path nn prep over pobj victory
+2142	path coach prep pobj appos in
+2143	path prep daughter pobj of appos
+2144	nsubj work path rcmod
+2145	nsubj path tie dobj
+2146	path prep pobj move from dobj
+2147	nsubj path dobj return
+2148	path prep pobj representative appos at
+2149	open dobj path rcmod
+2150	friend path prep pobj from appos
+2151	appos path novelist amod
+2152	nsubj path seize dobj
+2153	nsubj path prep pobj close to
+2154	street nn path
+2155	visit partmod path dobj
+2156	tour nsubj path dobj
+2157	path prep pobj immigrate from rcmod
+2158	path prep pobj of chairwoman rcmod
+2159	path son prep pobj of brother dep
+2160	path prep pobj dep from recall
+2161	appos path poss economist
+2162	path prep pobj principal appos at
+2163	find path prep pobj dobj in
+2164	convention path nn prep pobj in
+2165	path prep chef pobj at in
+2166	nsubj path dobj talk
+2167	support path prep pobj for poss
+2168	path prep pobj candidate appos at
+2169	nsubj path catch prep pobj from
+2170	path prep pobj letter from to
+2171	path headquarters nn prep pobj of
+2172	path counsel prep pobj appos to
+2173	path nn prep pobj champion from
+2174	path prep pobj from rcmod take
+2175	path prep pobj arrest rcmod in
+2176	path nn competition prep pobj in
+2177	immigrant path prep pobj from appos
+2178	nsubj path prep pobj operate in
+2179	appos path journalist amod
+2180	path nn prep family pobj of member appos
+2181	executive path prep pobj from appos
+2182	path prep pobj dobj use in
+2183	path prep pobj effort poss in
+2184	figure nsubj path prep pobj in
+2185	nsubj path prep report pobj in
+2186	appos path leader
+2187	appos researcher path nn
+2188	path prep pobj church poss in
+2189	path prep pobj by nsubjpass make
+2190	nsubj path prep pobj show in
+2191	amod path married dep
+2192	nsubj path prep pobj interest dobj have in
+2193	nsubj path prep pobj from use
+2194	nsubj path prep pobj present in
+2195	nsubj path prep pobj look for
+2196	nsubj write path rcmod
+2197	path nn prep pobj of campus
+2198	lead path prep pobj by nsubjpass
+2199	accompany path prep pobj by nsubjpass
+2200	appos path poss mayor
+2201	path nn prep community pobj of
+2202	path prep pobj dobj at meet
+2203	nsubj path prep pobj by take
+2204	nsubj path die prep pobj home in
+2205	dobj path rcmod ride
+2206	path director prep pobj at
+2207	nsubj path be prep pobj for
+2208	appos path poss official
+2209	nsubj path prep pobj with review
+2210	son path prep daughter of pobj dep appos
+2211	nsubj path prep pobj do to
+2212	nsubj path be accord prep pobj dep to
+2213	path run prep pobj by nsubjpass
+2214	nsubj path prep purchase pobj from
+2215	appos nsubj path president
+2216	path nn prep pobj of police
+2217	nsubj outshoot path dobj
+2218	partmod path chain base prep pobj appos in
+2219	nsubj sign path rcmod
+2220	path face prep pobj dobj in
+2221	nsubj path dobj approach
+2222	nsubj path share prep pobj with
+2223	appos nn path store
+2224	nsubj path prep pobj with sit
+2225	appos nn path end
+2226	path acquire prep pobj by nsubjpass
+2227	path prep pobj lose dobj to
+2228	path more than prep pobj amod
+2229	nsubj path coach prep pobj at
+2230	path prep pobj dobj design in
+2231	path prep ally pobj poss in
+2232	path son wife survive prep pobj by appos dobj
+2233	magazine path publisher prep nn pobj of appos
+2234	appos chief path poss
+2235	path prep pobj poss game at
+2236	path prep pobj by nsubjpass release
+2237	nsubj path prep pobj finish at
+2238	path prep as pobj know nsubjpass
+2239	poss nn path leader
+2240	path prep chairman of pobj rcmod
+2241	base path rcmod nsubjpass
+2242	path prep pobj of champion appos
+2243	nsubj path give
+2244	path prep pobj leader in amod
+2245	start nsubj path rcmod
+2246	appos prosecutor nn path
+2247	path survive addition prep pobj nsubjpass in to
+2248	researcher path prep pobj appos at
+2249	path prep pobj call dobj in
+2250	appos minister path
+2251	poss path appos trainer
+2252	nn path coach dep
+2253	nsubj path draw prep pobj from
+2254	poss nn path district
+2255	appos path poss officer
+2256	nsubj path prep publish pobj in
+2257	nsubj path hit
+2258	path run prep pobj from rcmod
+2259	appos husband path poss
+2260	path prep pobj on appos school
+2261	guide dobj path rcmod
+2262	path prep pobj from appos legislator
+2263	path prep pobj appos consultant to
+2264	path president prep pobj with appos
+2265	path friendship prep pobj with poss
+2266	path student prep pobj from appos
+2267	path nn prep pobj of performance
+2268	path work prep pobj at rcmod
+2269	poss nn path project
+2270	appos counsel path nn
+2271	poss path appos adviser
+2272	accompany dobj path rcmod
+2273	nsubj path prep end pobj in
+2274	nsubj path hand iobj
+2275	dobj path sing rcmod
+2276	appos nn path physician
+2277	path face prep pobj dobj at
+2278	nsubj path prep pobj convert to
+2279	path prep pobj appos designer in
+2280	path sociologist prep pobj appos at
+2281	path share prep pobj with rcmod
+2282	path prep pobj nominate for rcmod
+2283	commander path prep pobj appos in
+2284	nsubj path dobj condemn
+2285	do path rcmod nsubj
+2286	nsubj score path dobj
+2287	path director prep pobj of center appos poss
+2288	hospital path prep pobj appos in
+2289	path prep restaurant pobj on appos
+2290	nsubj path prep pobj home to
+2291	appos founder path poss
+2292	nsubj path write prep pobj letter in to
+2293	poss service path nn
+2294	path music prep pobj by
+2295	path wife survive prep pobj daughter by appos dobj
+2296	nsubj path praise dobj
+2297	nsubj path prep pobj present to
+2298	path prep pobj company appos in
+2299	dobj path rcmod rule
+2300	path prep pobj team appos in
+2301	nsubj path about write prep pobj
+2302	path prep pobj belong rcmod to
+2303	commander path prep pobj of appos
+2304	nsubj path prep perform pobj in
+2305	govern dobj path rcmod
+2306	appos opponent path poss
+2307	path nn prep pobj of home
+2308	path prep pobj appos at designer
+2309	nsubj path prep pobj at buy
+2310	appos nn path band
+2311	path director prep pobj of study appos at
+2312	path prep produce pobj with by association in
+2313	path prep pobj of representative appos
+2314	appos company nn path
+2315	nsubj path listen prep pobj to
+2316	path work prep pobj at in
+2317	nsubj path draft dobj
+2318	nsubj path add dobj
+2319	nsubj path dobj remember
+2320	nsubj path marry dobj
+2321	nsubj path prep play pobj on
+2322	path prep pobj of speaker appos
+2323	path prep restaurant pobj appos in
+2324	nsubj path replace prep pobj with
+2325	nsubj path reach prep pobj with
+2326	path prep pobj dobj represent in
+2327	nsubj path prep pobj of member
+2328	appos husband path
+2329	poss no. nn path
+2330	path prep co chairman of pobj appos
+2331	path agent prep pobj appos at
+2332	nsubj path prep pobj active in
+2333	path prep pobj from trade to
+2334	nsubj path ask
+2335	nsubj path rcmod run
+2336	path prep restaurant pobj appos at
+2337	path prep pobj from route to
+2338	official nn path
+2339	partmod path name dep
+2340	poss path dep opera
+2341	path prep pobj of photograph poss
+2342	path prep pobj open dobj at
+2343	nsubj path prep join pobj in
+2344	organize nsubj path dobj
+2345	path teach prep pobj rcmod in
+2346	subsidiary nn path appos
+2347	nsubj path dobj feature
+2348	nsubj path prep pobj found in
+2349	path prep pobj drive from appos
+2350	nsubj path advmod make
+2351	path engineer prep pobj appos at
+2352	path prep pobj dobj found in
+2353	path prep pobj victory poss in
+2354	appos unit path poss
+2355	appos nn path shop
+2356	path prep as pobj know in
+2357	nsubj dobj path complete
+2358	poss commissioner path appos
+2359	transfer nsubj path prep pobj to
+2360	partmod path base prep pobj on by story
+2361	appos nn path estate
+2362	path prep pobj by nsubjpass endorse
+2363	nsubj path dobj keep
+2364	path prep pobj finish rcmod in
+2365	path prep pobj with collaborate rcmod
+2366	dobj path award nsubjpass
+2367	appos path poss mother
+2368	dobj path control rcmod
+2369	path prep pobj of subsidiary appos INV
+2370	nsubj path dobj cast
+2371	path coordinator prep pobj appos at
+2372	path prep pobj of town amod
+2373	path prep chairman of pobj amod
+2374	poss site path nn
+2375	path prep pobj show at in
+2376	retain nsubj path dobj
+2377	appos administrator path poss
+2378	nsubj stun path dobj
+2379	path prep emigrate pobj from rcmod
+2380	poss nn path race
+2381	path prep pobj nominate for nsubjpass
+2382	dobj path win dep
+2383	path prep pobj with meeting poss
+2384	path nn prep pobj on store
+2385	path prep pobj appos envoy to
+2386	path prep pobj manager for appos
+2387	nsubj path dobj show
+2388	nsubj assure path dobj
+2389	nsubj path after prep pobj go
+2390	path nn prep suburb of pobj INV
+2391	appos nn path developer
+2392	appos senator nn path
+2393	appos nn path psychologist
+2394	nsubj path prep pobj travel in
+2395	path prep pobj representative from appos
+2396	path amod prep pobj of country
+2397	path advmod northeast of pobj dep
+2398	nsubj path dobj mention
+2399	nn path leader
+2400	nsubj path prep pobj sit at
+2401	nsubj path prep pobj use to
+2402	nsubj lead path prep over pobj dobj hold
+2403	nsubj path dobj declare
+2404	path prep pobj minister appos in
+2405	nsubj try path rcmod
+2406	path selection prep pobj of poss
+2407	begin nsubj path rcmod
+2408	teammate path prep pobj of appos
+2409	appos nn path speaker
+2410	path prep pobj follow dobj to
+2411	partmod path prep name pobj for
+2412	choice path prep pobj of poss
+2413	nsubj path nn award dobj win
+2414	appos nn path appointee
+2415	path nn prep loss pobj to
+2416	dobj path rcmod publish
+2417	nsubj path raise prep pobj in
+2418	path triumph prep over pobj poss
+2419	offer nsubj path prep pobj to
+2420	path prep pobj appos judge in
+2421	poss nsubj path coach
+2422	path president prep pobj of group appos poss
+2423	path prep pobj manager appos at
+2424	path prep pobj force from amod
+2425	retire nsubj path dobj
+2426	path prep pobj adviser appos in
+2427	lead path prep pobj dobj to
+2428	path perform prep pobj by nsubjpass
+2429	appos path speaker
+2430	path commissioner prep pobj of appos
+2431	nsubj push path dobj
+2432	path coach prep pobj for appos
+2433	nsubj path know
+2434	nsubj path get prep pobj with
+2435	nsubj path work prep pobj for
+2436	nsubj path prep pobj with side
+2437	path prep pobj freshman appos at
+2438	path prep center of pobj appos
+2439	path nn prep pobj firm appos in partner
+2440	dobj path direct rcmod
+2441	nsubj path player prep pobj in
+2442	nsubj path prep pobj of speak
+2443	nsubj appear path prep pobj on
+2444	path prep chairman pobj appos in
+2445	path prep pobj from INV in arrive
+2446	path prep pobj group from appos
+2447	nsubj path give goal poss iobj
+2448	nsubj dobj path grab
+2449	nsubj dobj path activate
+2450	curator path prep pobj of appos
+2451	path prep pobj move poss to
+2452	partmod path prep pobj call on
+2453	nsubj path prep pobj on live
+2454	appos area path nn
+2455	path writer prep pobj of appos
+2456	nsubj path dobj embrace
+2457	give path rcmod iobj
+2458	path interview prep pobj with poss
+2459	nsubj path rcmod pass
+2460	path nn prep pobj on school
+2461	nsubj read path dobj
+2462	appos path daughter dep
+2463	nsubj path cooperate prep pobj with
+2464	path president prep lawyer of pobj appos rcmod
+2465	nsubj path win
+2466	path return prep pobj from rcmod
+2467	researcher path prep pobj for appos
+2468	partmod path live prep pobj in
+2469	appos nn path expert
+2470	nsubj path prep pobj open to
+2471	nsubj path dobj violate
+2472	path son prep pobj of daughter dep appos
+2473	poss nn path school
+2474	nsubj lead path rcmod
+2475	poss opponent path nsubj
+2476	path business prep pobj appos in
+2477	path be prep pobj for in
+2478	nsubj path compete prep pobj with
+2479	begin nsubj path dep
+2480	path prep chairman of pobj appos poss board
+2481	nn path spokesman
+2482	use nsubj path rcmod
+2483	appear path prep pobj at rcmod
+2484	path prep pobj for appos editor
+2485	path economist prep pobj appos in
+2486	path prep pobj for go to
+2487	poss path appos grandfather
+2488	path nn prep family pobj in
+2489	nsubj score path rcmod
+2490	nsubj path write prep pobj with
+2491	path prep admit pobj nsubjpass to
+2492	dobj path rcmod hire
+2493	nsubj path prep pobj rule in
+2494	path include prep pobj of member
+2495	path bureau nn prep pobj of
+2496	convict path prep pobj nsubjpass in
+2497	nsubj path set nn record dobj
+2498	path prep vote pobj for rcmod
+2499	path prep pobj of appos king
+2500	path wife prep pobj with appos rcmod live
+2501	poss path appos spokesman
+2502	nsubj path dobj remove
+2503	path nn prep bishop pobj of
+2504	nsubj prevent path dobj
+2505	criticize dobj path rcmod
+2506	nn path director
+2507	path prep join pobj by nsubjpass
+2508	path be prep pobj like rcmod
+2509	nsubj path work prep pobj on
+2510	path prep pobj of appos star
+2511	nsubj path prep pobj for take
+2512	nsubj oust path dobj
+2513	path prep pobj of owner in
+2514	outplay nsubj path dobj
+2515	appos nn path sophomore
+2516	appos airline path poss
+2517	nsubj dobj path break
+2518	nsubj path prep report pobj to
+2519	nsubj path die nn prep pobj home at
+2520	path nn prep pobj of village INV
+2521	announce path rcmod nsubj
+2522	sell path prep pobj rcmod in
+2523	nsubj come path prep pobj with
+2524	path nn prep community pobj in
+2525	nsubj path lash prep pobj at
+2526	path prep pobj physicist appos at
+2527	path prep pobj of supervisor appos
+2528	poss program nn path
+2529	nsubj path prep pobj with strike
+2530	nsubj path prep pobj of leader
+2531	dep director path amod
+2532	path agency prep pobj appos in
+2533	nsubj path prep pobj on take
+2534	path be prep pobj with dep
+2535	nsubj path prep spend pobj with
+2536	appos nn path ally
+2537	cover path prep pobj for dobj
+2538	path version prep pobj of appos
+2539	appos nn path neighborhood
+2540	path advmod formerly pobj of dep
+2541	path prep pobj into nsubjpass induct
+2542	nn path column dep
+2543	nsubj path prep over pobj dep turn to
+2544	nsubj path dobj suggest
+2545	appos path attorney poss
+2546	nsubj path prep against pobj open
+2547	path student prep pobj in amod
+2548	path director prep pobj of in
+2549	nsubj path gather prep pobj in
+2550	member nsubj nn path
+2551	dobj review path
+2552	appos nn path financier
+2553	partmod path prep produce pobj directed by release
+2554	poss path appos book
+2555	nsubj path receive prep pobj in
+2556	poss nn path network
+2557	path prep pobj of voice appos
+2558	path be prep pobj at
+2559	poss nn path campus
+2560	path prep pobj of appos partner
+2561	partmod path edit prep pobj by
+2562	path coach nn prep pobj of appos team
+2563	path prep pobj by nsubjpass take
+2564	executive path prep pobj appos at
+2565	partmod path base prep pobj firm appos in
+2566	immigrant path prep pobj from amod
+2567	path prep produce pobj by nsubjpass
+2568	path trial nn prep pobj of
+2569	telephone nsubj path dobj
+2570	nsubj path prep pobj letter to dobj send
+2571	poss series path dep
+2572	poss path appos captain
+2573	path prep pobj camp poss in
+2574	call path dobj nsubjpass
+2575	path prep pobj for poss design
+2576	appos nn path designer
+2577	nsubj path prep as pobj chairman resign of
+2578	appos path party amod
+2579	path include dobj INV rcmod
+2580	path prep pobj by found rcmod
+2581	path prep pobj by nsubjpass quote
+2582	path prep pobj of appos branch
+2583	nsubj nn path player
+2584	nsubj dobj path denounce
+2585	give path dobj iobj
+2586	path biologist prep pobj appos at
+2587	appos nn path junior
+2588	path own prep pobj of percent dobj rcmod
+2589	appos path poss shareholder
+2590	path prep play pobj by rcmod
+2591	appos nn path commander
+2592	appos path general amod
+2593	path run prep against pobj rcmod
+2594	astrophysicist path prep pobj appos at
+2595	path kill rcmod nsubjpass
+2596	nsubj path complain prep pobj to
+2597	bring nsubj path prep pobj in
+2598	path man prep pobj of appos
+2599	path prep pobj area appos in
+2600	path author prep pobj of dep appos book
+2601	nsubj path prep pobj walk at
+2602	path nn prep pobj letter article on
+2603	appos path poss brother
+2604	path prep pobj for head appos
+2605	path prep pobj of poss vision
+2606	path prep pobj of treatment poss
+2607	nsubj path dobj INV have
+2608	path prep pobj appos at guard
+2609	path president prep pobj appos in
+2610	appos state path poss
+2611	path writer prep pobj appos at
+2612	nsubj do path
+2613	nsubj path dobj ride
+2614	nsubj path graduate prep pobj of
+2615	path nn prep pobj park in
+2616	appos nn path subsidiary
+2617	path prep pobj dep at professor
+2618	path nn prep pobj building on
+2619	path graduate prep pobj of appos
+2620	path prep pobj appos at banker
+2621	path teacher prep pobj appos at
+2622	path prep pobj dobj direct in
+2623	path prep pobj salesman from appos
+2624	poss path appos wife
+2625	nsubj path kill prep pobj in
+2626	path son survive prep pobj of by nsubjpass
+2627	path prep pobj appos in manufacturer
+2628	path prep interpretation pobj of poss
+2629	appos home path poss
+2630	own path rcmod nsubj
+2631	nsubj path dobj inform
+2632	nsubj path dobj guard
+2633	path shoot prep pobj nsubjpass in
+2634	path prep pobj adviser appos at
+2635	apologize nsubj path prep pobj to
+2636	path prep pobj for appos administrator
+2637	path prep pobj of appos designer
+2638	path director prep pobj for at
+2639	path prep pobj church in amod
+2640	path music prep pobj by dep
+2641	nsubj path prep pobj look to
+2642	path president nn appos INV
+2643	appos path poss organization
+2644	path station prep pobj appos in
+2645	nsubj path contributor prep pobj to
+2646	path prep pobj of chairman at
+2647	lead path past prep pobj dobj
+2648	path nn prep pobj compound in
+2649	appos nn path division
+2650	appos path poss newspaper
+2651	path nn prep pobj project in
+2652	nsubj path amod country
+2653	path be prep pobj on rcmod
+2654	prosecutor path prep pobj appos in
+2655	path prep pobj appos in partner
+2656	poss opponent path appos
+2657	poss company path appos
+2658	path prep pobj of population amod
+2659	nsubj path prep pobj city in
+2660	path base nn prep pobj at
+2661	path fly prep pobj from INV to
+2662	appos path poss lawyer
+2663	path be prep pobj on in
+2664	find nsubj path
+2665	nsubj path dobj chide
+2666	path prep pobj of site appos
+2667	path nn prep pobj of INV neighborhood
+2668	path prep pobj manager with appos
+2669	appos administrator path nn
+2670	path nn prep pobj of office head appos
+2671	path prep pobj by nsubjpass direct
+2672	hope path rcmod nsubj
+2673	path prep pobj poss envoy to
+2674	path prep pobj dobj at take
+2675	nsubj path prep pobj on go
+2676	nsubj path prep pobj put at
+2677	nsubj path rcmod return
+2678	path nn prep pobj street on
+2679	call path rcmod dep
+2680	path prep pobj build rcmod in
+2681	poss neighbor path appos
+2682	path nn prep pobj of west
+2683	path prep chairman pobj appos at
+2684	nsubj path catch dobj
+2685	nsubj path native prep pobj of
+2686	appos path poss nominee
+2687	path plant prep pobj poss in
+2688	poss game path nn
+2689	nsubj dobj path adopt
+2690	nsubj path prep pobj speak to
+2691	path prep northeast of pobj appos
+2692	poss appos path chancellor
+2693	path prep pobj appos administrator at
+2694	path distributor prep pobj appos in
+2695	path prep pobj immigrate from to
+2696	path prep place pobj on dobj
+2697	dobj sign path dep
+2698	path teacher prep pobj from appos
+2699	campaign path prep pobj for poss
+2700	lead path prep pobj dobj in
+2701	appos nn path collector
+2702	appos path poss pick
+2703	path prep pobj of captain appos
+2704	commander path prep pobj of force appos in
+2705	appos negotiator path poss
+2706	serve nsubj path president prep as pobj of
+2707	path director music prep pobj by dep appos
+2708	path prep pobj enter dobj in
+2709	poss director path rcmod
+2710	sue dobj path rcmod
+2711	nsubj sit path dobj
+2712	appos path poss safety
+2713	nsubj path prep pobj photograph by dobj review
+2714	path prep pobj complex appos in
+2715	path teach prep pobj INV at rcmod
+2716	nsubj medal path nn dobj win
+2717	path prep perform pobj with rcmod
+2718	path prep pobj with deal poss
+2719	path prep pobj of firm appos at partner
+2720	path prep pobj open in
+2721	nsubj review path dep
+2722	path nn prep pobj hospital in
+2723	path under prep pobj appos secretary
+2724	path prep pobj representative for appos
+2725	path nn prep pobj case in
+2726	nsubj path prep pobj move at
+2727	nsubj nn path coach
+2728	nsubj path play dep
+2729	near path plant nn prep pobj
+2730	path prep pobj of leader in
+2731	path prep pobj by rcmod buy
+2732	path prep pobj of candidate appos
+2733	nsubj path coach prep pobj of
+2734	path nn prep pobj of port
+2735	nsubj path call
+2736	nn path bill
+2737	nn path report
+2738	path prep pobj of state poss
+2739	path prep pobj of chairman on
+2740	path prep pobj call dobj at
+2741	nsubj path owe dobj
+2742	poss path appos father
+2743	path nn prep play pobj at
+2744	appos nn path chief
+2745	nsubj path prep pobj of unit
+2746	seek nsubj path dobj
+2747	poss nsubj choice path
+2748	nsubj path nn win dobj title
+2749	appos path end poss
+2750	path prep pobj by ask nsubjpass
+2751	driver path prep pobj from appos
+2752	nsubj path acquire prep pobj stake dobj in
+2753	nsubj path get dep
+2754	consider path rcmod nsubj
+2755	appos home nn path
+2756	appos arm path poss
+2757	path prep join pobj by rcmod
+2758	path prep pobj division poss in
+2759	appos path officer amod
+2760	appos path ally poss
+2761	nsubj path compete prep pobj in
+2762	path prep pobj quarterback for appos
+2763	call dobj path rcmod
+2764	nsubj path dobj sweep
+2765	help dobj path rcmod
+2766	poss nn path seat
+2767	nsubj path prep pobj consultant to
+2768	partmod path nn lawyer dobj represent
+2769	path librarian prep pobj appos at
+2770	nsubj path nn dobj review performance
+2771	nsubj path prep pobj on make
+2772	appos teacher path nn
+2773	path prep pobj control by nsubjpass
+2774	path trial nn prep pobj in
+2775	act path prep pobj by in
+2776	nsubj path prep study pobj in
+2777	nsubj path die prep pobj on home at
+2778	lead path prep pobj victory dobj in to
+2779	nsubj work path dobj
+2780	poss nn path station
+2781	appos entrepreneur nn path
+2782	nsubj path dobj review book
+2783	nsubj path prep pobj review in
+2784	path prep pobj of bombing in
+2785	appos path owner
+2786	path prep against pobj file in
+2787	nsubj path dobj know
+2788	appos whip nn path
+2789	nsubj path prep pobj build at
+2790	path prep pobj of founder appos INV
+2791	path at prep pobj dobj present
+2792	path maker prep pobj appos in
+2793	conduct partmod path dobj
+2794	nsubj path prep pobj at leave
+2795	path anthropologist prep pobj appos at
+2796	path prep pobj head rcmod in
+2797	path section prep pobj of appos
+2798	nsubj recruit path dobj
+2799	poss path community amod
+2800	path nn column prep pobj from
+2801	path prep pobj at in take
+2802	path scholar nn prep pobj at
+2803	nsubj path amod city
+2804	poss nn path neighborhood
+2805	path write nn prep pobj directed by dep
+2806	women nn path poss
+2807	see path rcmod nsubj
+2808	appos path producer
+2809	path prep pobj from appos junior
+2810	nsubj path rise dobj
+2811	nsubj path rcmod go
+2812	nsubj dobj path crush
+2813	appos nn path manufacturer
+2814	path prep pobj neighborhood in amod
+2815	prepare nsubj path prep pobj for
+2816	near path prep pobj town appos
+2817	appos parent path poss
+2818	path prep pobj appos administrator in
+2819	path invasion prep pobj of amod
+2820	path nn prep pobj movement in
+2821	nsubj path prep pobj into go
+2822	path mother prep pobj from appos
+2823	appos nn path producer
+2824	path prep pobj by head nsubjpass
+2825	path nn prep pobj firm appos at partner
+2826	path nn prep pobj affiliate in
+2827	appos nsubj son path
+2828	set path rcmod nsubj
+2829	path prep perform pobj by at
+2830	nsubj path play
+2831	path prep pobj look like rcmod
+2832	appos nn path pilot
+2833	poss path appos lawyer
+2834	path prep pobj by build nsubjpass
+2835	nsubj path prep spend pobj on
+2836	appos path agency amod
+2837	partmod path write prep director pobj directed by dep appos
+2838	nsubj path run prep pobj to
+2839	path prep pobj sophomore from appos
+2840	nsubj path poss dobj review performance
+2841	path prep pobj of manager rcmod
+2842	nsubj path prep pobj of manager
+2843	poss path rcmod adviser
+2844	path prep pobj marry rcmod to
+2845	nsubj path dobj claim
+2846	path advmod pobj here dep in
+2847	appos nn path journalist
+2848	path general prep pobj appos in
+2849	path nn prep pobj letter on
+2850	nsubj path prep pobj ship to
+2851	seek nsubj path prep pobj in
+2852	partmod path lead prep pobj by INV
+2853	guide nsubj path dobj
+2854	path seat nn prep pobj in
+2855	nsubj rejoin path dobj
+2856	nsubj path wife prep pobj with appos live
+2857	nsubj path change prep pobj to
+2858	nsubj path remind dobj
+2859	path nn prep chairman of pobj appos committee
+2860	poss album path dep
+2861	appos nn path project
+2862	open nsubj path
+2863	path prep publish pobj by in
+2864	path director prep pobj of office appos poss
+2865	nsubj path dobj favor
+2866	path at prep pobj hold rcmod
+2867	nsubj dobj path bar
+2868	path prep pobj by nsubjpass design
+2869	nsubj path keep prep pobj in
+2870	nsubj path prep pobj by present
+2871	bring path prep pobj by to
+2872	nsubj path prep pobj show at
+2873	path prep lawyer with pobj appos
+2874	promote nsubj path dobj
+2875	path prep pobj at rcmod meet
+2876	path wife prep pobj with appos
+2877	nsubj invite path prep pobj to
+2878	path specialist prep pobj for appos
+2879	medalist path prep pobj appos at
+2880	path conduct prep pobj dobj at
+2881	path nn prep pobj laboratory in
+2882	path nn prep pobj living in
+2883	partmod path prep pobj control by
+2884	partmod path run prep pobj by
+2885	path prep pobj by head rcmod
+2886	path prep pobj control by rcmod
+2887	partmod path prep pobj company control by appos
+2888	appos path group poss
+2889	poss nn path policy
+2890	path prep pobj record poss in
+2891	path prep pobj of endorsement poss
+2892	nsubj path list dobj
+2893	nsubj path about prep pobj speak
+2894	nsubj dobj path publish
+2895	begin nsubj path dobj
+2896	nsubj path hand prep pobj to
+2897	path son wife survive prep pobj by dep appos
+2898	path be prep pobj dep at
+2899	path cousin prep pobj of appos
+2900	path officer nn prep pobj in
+2901	path shop prep pobj on appos
+2902	appos nsubj director path
+2903	nsubj path prep against pobj go
+2904	poss nsubj path player
+2905	path prep pobj of appos affiliate
+2906	appos nn path supporter
+2907	appos unit nn path
+2908	nsubj path work prep pobj by dobj review
+2909	nsubj nn path leader
+2910	path refer prep as pobj to
+2911	nsubj campaign path prep pobj for
+2912	nsubj path prep pobj finish in
+2913	nsubj path rcmod join
+2914	nsubj path prep pobj with conduct
+2915	appos nn path boy
+2916	path operation nn prep pobj of
+2917	need nsubj path prep pobj from
+2918	path prep pobj from appos delegate
+2919	appos nsubj path professor
+2920	turn path rcmod nsubj
+2921	path prep pobj by conduct at
+2922	path prep play pobj by at
+2923	nsubj lose path
+2924	poss church nn path
+2925	nsubj apply path prep pobj to
+2926	nsubj path take
+2927	path wife survive prep pobj by nsubjpass appos
+2928	debut path nn make dobj rcmod
+2929	path president prep pobj for relation appos at
+2930	offer nsubj path prep pobj in
+2931	nsubj path prep pobj open office dobj in
+2932	path prep pobj of office poss
+2933	nsubj path prep pobj sit in
+2934	path prep perform pobj rcmod in
+2935	path prep play pobj rcmod to
+2936	nsubj contact path dobj
+2937	bring dobj path rcmod
+2938	path prep play pobj in
+2939	son path survive prep pobj daughter of by appos dobj
+2940	path nn prep pobj of minister
+2941	appos sergeant nn path
+2942	path contractor prep pobj appos in
+2943	path prep pobj meteorologist appos at
+2944	nsubj path run prep pobj from
+2945	appos path father
+2946	path part prep pobj of appos unit
+2947	path appos chairman poss INV
+2948	path publication prep pobj of appos
+2949	appos editor path nn
+2950	nsubj dobj path study
+2951	nsubj path rcmod teach
+2952	path prep pobj on go to
+2953	path prep pobj for rcmod pitch
+2954	path nn prep pobj complex in
+2955	appos director path amod
+2956	path prep pobj dobj at leave
+2957	campaign path nn prep pobj of
+2958	nsubj path prep pobj from have
+2959	nsubj path show
+2960	path prep produce pobj by dep
+2961	path agent prep pobj of appos
+2962	path nn prep tonight pobj at
+2963	path prep publish pobj nsubjpass in
+2964	appos nn path building
+2965	nsubj path prep pobj ambassador to
+2966	dobj bear path nsubjpass
+2967	path prep pobj of head appos at department
+2968	path fellow prep pobj at
+2969	partmod path lawyer appos dobj represent
+2970	path prep pobj appos hotel in
+2971	path prep pobj open at
+2972	poss nsubj path president
+2973	sell path prep pobj dobj in
+2974	poss path appos newspaper
+2975	nsubj liken path prep pobj to
+2976	path teach prep pobj dobj at
+2977	path prep spokeswoman pobj appos at
+2978	dobj path design rcmod
+2979	path bar prep pobj appos in
+2980	nsubj path prep pobj in send
+2981	nsubj path writer prep pobj for
+2982	path nn prep pobj of resort
+2983	nsubj sell path prep pobj at
+2984	path nn prep pobj of subsidiary
+2985	nsubj path nn production prep pobj of play dobj review
+2986	path nn prep pobj company like
+2987	appos nn path worker
+2988	poss character path appos
+2989	appos path manager dep
+2990	nsubj path rcmod meet
+2991	path prep pobj call on nsubjpass
+2992	path director dep appos INV
+2993	path prep pobj make at rcmod
+2994	nsubj path prep pobj stake dobj in buy
+2995	nsubj path pound dobj
+2996	nsubj path refer prep as pobj
+2997	appos path businessman amod
+2998	poss husband path appos
+2999	nsubj share path dobj
+3000	path specialist prep pobj with appos
+3001	path coordinator nn prep pobj for
+3002	nsubj path production prep pobj of dobj review
+3003	path prep expert pobj appos in
+3004	find dobj path rcmod
+3005	path lawsuit prep against pobj poss
+3006	dep nn path novel
+3007	path prep reporter pobj appos at
+3008	path movie dep poss INV
+3009	appos publisher path nn
+3010	path specialist prep pobj appos in
+3011	appos contractor nn path
+3012	path nn prep director pobj for
+3013	path part nn prep pobj of
+3014	path prep spend pobj at rcmod
+3015	path at prep pobj appos colleague
+3016	path prep pobj of appos rector
+3017	path coach prep pobj with appos
+3018	path prep businessman pobj from appos
+3019	appos nn path fan
+3020	nsubj path prep spend pobj at
+3021	nsubj path dep movie dobj review
+3022	partmod path prep pobj by appoint
+3023	path prep pobj of appos superintendent
+3024	friend path prep pobj of rcmod
+3025	nsubj path dep dobj review book
+3026	guide path prep pobj poss to
+3027	nsubj path run
+3028	path son survive prep pobj of daughter by dobj
+3029	path version prep pobj of amod
+3030	path prep pobj of parent appos
+3031	nsubj nn path fan
+3032	partmod path base prep pobj at
+3033	path prep pobj meeting in amod
+3034	path prep chairman of pobj appos board
+3035	program path prep pobj poss in
+3036	nsubj path dobj reject
+3037	appos nn path inspector
+3038	debut path nn prep pobj dobj at make
+3039	sell path prep pobj nsubjpass to
+3040	nsubj path prep pobj editor at
+3041	nsubj path at prep pobj direct
+3042	friend nsubj path prep pobj of
+3043	poss widow path appos
+3044	path prep involve pobj with nsubjpass
+3045	path official prep pobj appos at
+3046	path prep expert pobj for appos
+3047	path prep pobj of member rcmod
+3048	nsubj path dobj quit
+3049	partmod path prep pobj by operate
+3050	dobj path rcmod accuse
+3051	study dobj path rcmod
+3052	path director prep pobj of center for appos
+3053	path prep pobj appos at junior
+3054	nsubj path prep pobj remain at
+3055	path prep pobj by make in
+3056	nsubj path prep pobj leave to
+3057	nsubj path run prep against pobj
+3058	nsubj dobj path phone
+3059	subcommittee path nn prep chairman of pobj rcmod
+3060	nsubj path prep pobj of secretary
+3061	path prep pobj of rcmod secretary
+3062	poss path appos representative
+3063	poss area path nn
+3064	nsubj path prep pobj on have
+3065	nsubj path write prep pobj letter dobj to
+3066	poss path appos quarterback
+3067	path prep pobj with alliance poss
+3068	assistant path prep pobj appos in
+3069	path prep pobj close rcmod to
+3070	nsubj path face prep pobj at
+3071	path wife survive prep pobj of by nsubjpass
+3072	nsubj path dobj foul
+3073	path commissioner prep pobj appos in
+3074	partmod path prep join pobj by
+3075	trustee path prep pobj of appos
+3076	appos councilman path nn
+3077	threaten nsubj path dobj
+3078	path prep pobj with by association present in
+3079	nsubj path version prep pobj of
+3080	path prep pobj nsubjpass at present
+3081	appos k path dep
+3082	dep call path nsubjpass
+3083	path prep pobj from appos consultant
+3084	path prep pobj of appos resident
+3085	appos nn path retailer
+3086	path prep pobj performance poss in
+3087	nsubj path continue
+3088	nsubj nn path team
+3089	urge dobj path rcmod
+3090	path student prep pobj of appos
+3091	path prep pobj of head in
+3092	path prep center pobj for appos
+3093	appos nn path student
+3094	series path nn prep pobj in
+3095	nsubj fly path dobj
+3096	cover path prep pobj for rcmod
+3097	path prep pobj bury nsubjpass in
+3098	nsubj path prep pobj company in
+3099	path nn prep pobj home in
+3100	support dobj path rcmod
+3101	nsubj path announce dobj
+3102	appos company path amod
+3103	path president prep pobj of dep
+3104	path prep store pobj appos in
+3105	nsubj path prep pobj for make
+3106	nsubj path dobj interview
+3107	path district prep pobj of for
+3108	nsubj path nn prep pobj review at gallery
+3109	path prep pobj immigrate rcmod to
+3110	path prep pobj from dobj recall
+3111	path director prep pobj with appos
+3112	path prep worker pobj appos at
+3113	nsubj path receive prep pobj degree from dobj
+3114	nsubj beat path dobj INV
+3115	partmod path base prep pobj on
+3116	nsubj dobj path occupy
+3117	path director prep pobj of appos at department
+3118	path nn prep pobj of tribe
+3119	appos path professor amod
+3120	nsubj path prep pobj walk into
+3121	path work prep pobj by at
+3122	nsubj identify path prep as pobj
+3123	appos teammate path poss
+3124	path prep chairman of pobj appos INV
+3125	appos nn path administrator
+3126	path prep pobj of account poss
+3127	path prep pobj appos epidemiologist at
+3128	nsubj path prep pobj with win
+3129	serve path under prep pobj rcmod
+3130	path nn prep pobj of division INV
+3131	path prep perform pobj at
+3132	path developer prep pobj of appos
+3133	nsubj path prep pobj team in
+3134	appos hero nn path
+3135	appos nn path partner
+3136	tap nsubj path dobj
+3137	path prep pobj appos estate in
+3138	path prep pobj campus poss in
+3139	sell path prep pobj stake dobj in to
+3140	path receive prep pobj from dobj
+3141	bear path rcmod nsubjpass
+3142	poss path appos mayor
+3143	nsubj path prep pobj on close
+3144	path nn prep pobj of group
+3145	nsubj beat path rcmod
+3146	nsubj path nn dobj tournament win
+3147	path spokesman nn prep pobj for appos police
+3148	turn dobj path rcmod
+3149	path nn film dep INV
+3150	path nn prep pobj manager for
+3151	path nn prep pobj tribe in
+3152	nsubj path against prep pobj do
+3153	path prep pobj of mayor rcmod
+3154	poss nn path movement
+3155	path prep pobj of staging poss
+3156	show path rcmod nsubj
+3157	die path rcmod nsubj
+3158	dobj path rcmod back
+3159	path dealer prep pobj appos in
+3160	serve nsubj path dobj
+3161	path exhibition nn prep pobj at
+3162	behind path prep pobj game in
+3163	nsubj lobby path dobj
+3164	nsubj path nn restaurant dobj review
+3165	path prep pobj street appos at
+3166	path prep pobj costume by dep
+3167	open nsubj path dep
+3168	path president prep pobj of elect appos
+3169	nsubj path return prep pobj in
+3170	path prep pobj of division appos INV
+3171	nsubj path part prep pobj of INV
+3172	path nn prep pobj judge in
+3173	nsubj path prep pobj leave in
+3174	nsubj path prep pobj on count
+3175	nsubj path prep pobj before testify
+3176	path prep center pobj for poss
+3177	dobj path rcmod fight
+3178	nsubj path prep pobj stay at
+3179	path agent prep nn pobj of office appos charge in
+3180	path prep pobj costume by appos
+3181	nsubj path dobj miss
+3182	path official include nn prep pobj
+3183	assistant path prep pobj appos at
+3184	nsubj have path advmod
+3185	path prep chairman pobj for appos
+3186	chief path nn prep pobj in
+3187	path prep pobj for dobj INV leave
+3188	executive path prep pobj of rcmod
+3189	path advise prep pobj by nsubjpass
+3190	path prep pobj poss arrival in
+3191	appos path poss deputy
+3192	nsubj path prep pobj with hold
+3193	poss path appos ambassador
+3194	path prep pobj round of defeat dobj in
+3195	appos path amod politician
+3196	nsubj path writer nn director prep pobj of
+3197	path prep pobj of chairman
+3198	dobj path rcmod acquire
+3199	path prep pobj poss in partner
+3200	appos nn path family
+3201	nsubj path nn letter praise dobj
+3202	path prep pobj appos farmer in
+3203	appos nn path volunteer
+3204	path prep pobj by nsubjpass choose
+3205	path fund nn prep pobj of manager appos
+3206	nsubj path prep pobj of subsidiary
+3207	path prep pobj building poss in
+3208	path prep pobj eliminate by nsubjpass
+3209	path station nn prep pobj at
+3210	nsubj path join
+3211	nsubj path prep against pobj win
+3212	nsubj try path
+3213	nsubj path prep pobj switch to
+3214	path prep pobj on nsubjpass bear
+3215	appos nn path surgeon
+3216	path amod include prep pobj country
+3217	path prep pobj of appos professor
+3218	path work prep pobj by dobj review at
+3219	path prep pobj departure from poss
+3220	nsubj path dobj spend
+3221	path prep pobj head appos in
+3222	lead path prep pobj by rcmod
+3223	path prep shift pobj from to
+3224	nsubj path prep pobj with collaborate
+3225	poss appos path restaurant
+3226	path prep pobj with poss dealings
+3227	appos entrepreneur path amod
+3228	nsubj path dobj die
+3229	nn path writer
+3230	appos accountant nn path
+3231	path prep pobj of chairman appos
+3232	path prep pobj by release rcmod
+3233	path prep pobj appos trader at
+3234	appos nn path counsel
+3235	path prep pobj rcmod operate in
+3236	path prep pobj park appos in
+3237	path prep pobj for plan poss
+3238	path prep tie pobj with in
+3239	poss path appos successor
+3240	path prep pobj appos lecturer at
+3241	commander path nn prep pobj of force appos
+3242	nsubj path sing prep pobj at
+3243	appos son path dep
+3244	path nn prep pobj of manager
+3245	poss nn path branch
+3246	nsubj break path rcmod
+3247	poss nn path collection
+3248	path president nn prep pobj of company appos
+3249	appos nn path psychiatrist
+3250	nsubj path dobj notify
+3251	appos nn path laureate
+3252	path prep play pobj poss at
+3253	dobj path marry rcmod
+3254	hit path rcmod nsubj
+3255	path sing prep pobj dobj in
+3256	path prep pobj put dobj in
+3257	path prep loss pobj poss at
+3258	poss path appos girlfriend
+3259	path historian prep pobj of appos
+3260	path nn prep pobj diplomat in
+3261	poss population nn path
+3262	path nn prep study pobj at
+3263	path kill prep pobj nsubjpass in
+3264	path hire prep pobj by rcmod
+3265	bring path prep pobj in to
+3266	path prep co pobj of founder appos INV
+3267	poss founder path appos
+3268	executive path prep pobj of appos INV
+3269	appos architect path amod
+3270	path prep pobj percent in
+3271	path neuroscientist prep pobj appos at
+3272	path part prep pobj of INV rcmod
+3273	path nn prep family pobj of
+3274	path prep pobj dobj assign to
+3275	path prep pobj from rcmod arrive
+3276	path prep pobj open on dobj
+3277	appos nn path medalist
+3278	nsubj path allow dobj
+3279	appos path brother
+3280	path prep pobj of company appos
+3281	path prep chef of pobj appos
+3282	nsubj dobj path abandon
+3283	path prep pobj like artist amod
+3284	appos champion path amod
+3285	appos nn path doctor
+3286	path shop nn prep pobj in
+3287	sell path prep pobj by nsubjpass
+3288	path prep community pobj appos in
+3289	dobj partmod path represent
+3290	path set prep pobj nsubjpass in
+3291	poss path appos spokeswoman
+3292	path prep pobj with go to
+3293	nsubj path run prep pobj at
+3294	path prep pobj convert rcmod to
+3295	path paleontologist prep pobj appos at
+3296	path prep pobj for appos consultant
+3297	nsubj dobj path accept
+3298	path engineer prep pobj for appos
+3299	path president prep pobj of division appos poss
+3300	path president operation prep pobj of appos poss
+3301	path commissioner prep pobj for appos
+3302	path astronomer prep pobj appos at
+3303	path prep report pobj for from
+3304	path prep pobj of appos supporter
+3305	path nn prep pobj on committee
+3306	path nn prep spokeswoman pobj in
+3307	path director prep pobj at rcmod
+3308	nsubj grow path rcmod
+3309	path prep pobj appos secretary to
+3310	appos path writer amod
+3311	dobj path win
+3312	path prep pobj start at rcmod
+3313	path brokerage prep pobj appos in
+3314	appos broker nn path
+3315	nsubj path dispatch dobj
+3316	nsubj path recall
+3317	serve nsubj path rcmod
+3318	nsubj path prep pobj go at
+3319	nsubj path prep pobj with relationship dobj have
+3320	path prep history pobj of at professor amod
+3321	nsubj appear path prep pobj with
+3322	partmod path prep pobj by hold
+3323	path column prep nn pobj in
+3324	appos path poss aide
+3325	poss counsel path appos
+3326	nsubj path form dobj
+3327	path chapter director prep nn pobj of appos
+3328	path prep pobj member appos at
+3329	path prep pobj company for appos
+3330	nsubj nn path writer
+3331	path advmod pobj of also dep
+3332	path president prep pobj of at
+3333	appos path poss partner
+3334	nsubj outrebound path dobj
+3335	poss path appos aide
+3336	path prep pobj from appos designer
+3337	appos path amod actress
+3338	son path prep pobj of nsubjpass dobj bear
+3339	path nn prep pobj school appos at professor
+3340	path enclave nn prep pobj of
+3341	path nn prep pobj store at
+3342	pastor path prep pobj appos in
+3343	nsubj path prep pobj on grow
+3344	poss path appos producer
+3345	nsubj path rcmod INV have
+3346	path nn prep pobj of revival
+3347	succeed dobj partmod path
+3348	serve path prep pobj with rcmod
+3349	nsubj path prep end pobj with
+3350	path prep pobj of appos chairwoman
+3351	executive path prep pobj with appos
+3352	comment path nn prep pobj article on poss
+3353	nsubj hold path rcmod
+3354	path prep pobj for appos lobbyist
+3355	poss publisher path appos
+3356	path raise prep pobj nsubjpass in
+3357	path prep take pobj nsubjpass to
+3358	appos nn path number
+3359	path at prep pobj nsubjpass hold
+3360	path prep pobj in INV live
+3361	path director prep pobj on appos
+3362	poss path appos brother
+3363	nsubj throw path
+3364	nsubj path rcmod plan
+3365	nsubj path stand prep pobj at
+3366	path prep spokeswoman pobj appos in
+3367	poss path dep painting
+3368	path president prep co pobj of appos
+3369	path prep pobj letter poss to
+3370	nsubj path prep pobj close in
+3371	nsubj path dobj let
+3372	path prep pobj from dobj take
+3373	path prep pobj of appos wing
+3374	official nn path amod
+3375	path export prep pobj poss to
+3376	poss assistant path appos
+3377	path president nn prep pobj of division appos
+3378	nsubj path leave rcmod
+3379	nsubj path complete prep pobj to
+3380	path general prep pobj for appos
+3381	pastor path prep pobj of in
+3382	nsubj path agree
+3383	nsubj path see prep pobj at
+3384	path chapter director prep pobj of appos
+3385	path prep pobj of appos superintendent school in
+3386	appos path poss governor
+3387	path prep study pobj at amod
+3388	path conduct prep pobj dobj in
+3389	nsubj path prep over pobj take
+3390	poss nn path article
+3391	path prep pobj with appos partner
+3392	path prep pobj by challenge nsubjpass
+3393	path nn prep agent pobj in
+3394	appos nn path nominee
+3395	nsubj path prep pobj try to
+3396	path nn prep center pobj for
+3397	appos path poss spokeswoman
+3398	path prep pobj on store in
+3399	partmod path director prep pobj directed by dep appos release
+3400	appos sister path poss
+3401	path prep pobj of head at
+3402	appos linebacker path poss
+3403	nsubj path prep pobj appoint to
+3404	path writer prep pobj from appos
+3405	path prep pobj with INV in meet
+3406	path prep pobj at rcmod live
+3407	path son survive prep pobj of daughter by appos dobj
+3408	appos founder path nn
+3409	path director prep pobj of center on appos
+3410	path prep pobj of neighbor appos
+3411	nsubj path dobj develop
+3412	path raise prep pobj rcmod in
+3413	path prep pobj of division poss
+3414	path prep pobj of imprint appos
+3415	nsubj director path rcmod
+3416	region path prep pobj of amod
+3417	path prep pobj leader for appos
+3418	appos house path poss
+3419	path prep pobj state in amod
+3420	path prep pobj by appoint rcmod
+3421	path prep study pobj at rcmod
+3422	nsubj path be addition prep pobj in to
+3423	path prep pobj of poss school
+3424	merge path prep pobj with rcmod
+3425	path director prep pobj of division appos poss
+3426	path acquire prep pobj by rcmod
+3427	comment path nn prep pobj article on
+3428	nsubj path use
+3429	path prep pobj open on rcmod
+3430	partmod path base prep pobj in appos newsletter
+3431	path prep chairman of pobj appos committee
+3432	nsubj path leave dep
+3433	path prep pobj appos superintendent in
+3434	dobj path rcmod oversee
+3435	path nn prep pobj on campus
+3436	nsubj path deliver dobj
+3437	serve nsubj path prep pobj on
+3438	path prep pobj senior from appos
+3439	nsubj path prep pobj at live
+3440	nsubj path dobj deny
+3441	path see prep pobj dobj at
+3442	path prep chef pobj appos in
+3443	path prep pobj counselor appos at
+3444	nsubj path prep submit pobj to
+3445	path prep pobj principal appos in
+3446	dobj path present rcmod
+3447	path prep pobj of proprietor appos
+3448	nsubj path dobj instruct
+3449	program nn path dep
+3450	path director prep pobj of for
+3451	dobj path recall dep
+3452	nsubj path point prep pobj for add dobj
+3453	introduce dobj path rcmod
+3454	nsubj path prep pobj give in
+3455	nsubj path prep pobj of partner
+3456	nsubj path prep pobj of percent dobj buy
+3457	nsubj path prep pobj for wait
+3458	appos fund nn path
+3459	partmod path prep pobj drive by
+3460	dobj sign path rcmod
+3461	appos trader path nn
+3462	path nn prep pobj court INV in
+3463	figure path prep pobj appos in
+3464	represent path lawyer appos dobj rcmod
+3465	daily path amod dep
+3466	magazine chief path nn prep pobj of appos editor in
+3467	nsubj appear path rcmod
+3468	nn path game
+3469	path prep pobj nsubjpass assign to
+3470	nn path book dep
+3471	poss path president rcmod
+3472	nsubj path dobj discover
+3473	path president prep pobj of division appos
+3474	partmod path prep pobj develop by
+3475	path run prep pobj by rcmod
+3476	path native prep pobj in appos rcmod live
+3477	contract path prep purchase pobj of from dobj
+3478	path nn prep pobj of home INV
+3479	dep nn path firm
+3480	path prep pobj organization in amod
+3481	nsubj path president rcmod
+3482	poss nn path plan
+3483	path prep pobj nsubjpass bear to
+3484	dobj sell path rcmod
+3485	path prep daughter pobj of brother dep appos
+3486	poss magazine nn path
+3487	appos dealer path amod
+3488	dobj hold path rcmod
+3489	operate dobj path rcmod
+3490	explain nsubj path
+3491	nsubj path director prep pobj for
+3492	path prep pobj appos in institution
+3493	path publisher prep pobj appos in
+3494	appos member path amod
+3495	path prep geologist pobj appos at
+3496	appos path poss predecessor
+3497	path dancer prep pobj with appos
+3498	path director prep pobj of office appos
+3499	path return prep pobj from INV to
+3500	path prep pobj of head rcmod
+3501	path seat nn prep pobj from
+3502	nsubj path die prep pobj of
+3503	appos nn path inc.
+3504	attend path rcmod nsubj
+3505	path prep family pobj in amod
+3506	path nn prep pobj ambassador to
+3507	dobj path rcmod teach
+3508	path prep pobj associate appos at
+3509	path prep pobj living in amod
+3510	nsubj path dobj overwhelm
+3511	son path survive prep pobj daughter by appos dobj
+3512	path prep pobj complex poss in
+3513	nsubj path prep pobj call from
+3514	appos specialist path poss
+3515	path prep pobj of by acquisition
+3516	son path brother dep appos
+3517	nsubj path rush
+3518	sign path prep pobj by nsubjpass
+3519	nsubj path prep pobj record dobj have in
+3520	path nn prep pobj candidate in
+3521	nsubj path prep pobj fire at
+3522	path prep play pobj at
+3523	partmod path prep pobj by build
+3524	nsubj path suggest
+3525	nsubj path president writer nn prep pobj of
+3526	nsubj path coach prep pobj in
+3527	path prep pobj with associate nsubjpass
+3528	nn path rcmod leader
+3529	path nn prep pobj at tournament
+3530	path prep pobj of chairman in
+3531	nsubj path dobj be
+3532	path prep community pobj of amod
+3533	appos superintendent path poss
+3534	path prep pobj school in amod
+3535	appos nn path chancellor
+3536	nsubj path pitch dep
+3537	son path prep pobj of brother dep appos
+3538	nn path chairman
+3539	appos path organization amod
+3540	path nn prep pobj of editor
+3541	path prep chairman of pobj appos poss committee
+3542	nsubj path dobj depict
+3543	path president nn prep pobj of office appos
+3544	nsubj path prep pobj earn from
+3545	appos sister path
+3546	appos trustee path nn
+3547	partmod path own prep pobj percent by rcmod
+3548	path prep pobj building appos in
+3549	path nn prep restaurant pobj at
+3550	poss chief path nn
+3551	appos street path dep
+3552	nsubj chief path prep pobj of
+3553	path engineer prep pobj from appos
+3554	nsubj path prep pobj of dean
+3555	path appos governor poss INV
+3556	finish nsubj path dobj
+3557	dobj path edit rcmod
+3558	nsubj path prep report pobj for
+3559	path prep publish pobj rcmod in
+3560	nn path team
+3561	path prep pobj influence in amod
+3562	path director prep pobj of dep
+3563	nsubj path prep pobj of control dobj take
+3564	dobj path rcmod defend
+3565	path own prep pobj by dep
+3566	poss path appos boss
+3567	path dep appos INV producer
+3568	strategist path prep pobj for appos
+3569	nsubj nn path officer
+3570	path director prep pobj for rcmod
+3571	path nn prep pobj race at
+3572	nsubj path prep pobj retire from
+3573	commander nn path appos
+3574	path prep history pobj of dep
+3575	poss path appos companion
+3576	path prep pobj appos resort in
+3577	appos path restaurant amod
+3578	partmod path base prep concern pobj appos in
+3579	nsubj path prep end pobj at
+3580	dobj path csubj join
+3581	seek nsubj path rcmod
+3582	path prep pobj sophomore appos at
+3583	path director prep co pobj appos at
+3584	path prep pobj nsubjpass list at
+3585	path treasurer prep pobj of appos
+3586	letter nn path dep
+3587	path prep pobj owner appos at
+3588	appos path chancellor poss
+3589	path prep pobj poss marriage to
+3590	path prep pobj sit on rcmod
+3591	appos strategist path poss
+3592	path prep pobj with found rcmod
+3593	appos path amod institution
+3594	nsubj path shoot prep pobj at
+3595	path nn prep pobj at school
+3596	nsubj path prep pobj of division
+3597	path president nn prep pobj of group appos
+3598	nsubj path prep pobj of professor
+3599	path nn prep pobj delegate to
+3600	nsubj path present rcmod
+3601	republic path nn prep pobj of
+3602	nsubj path prep pobj with break
+3603	chief path prep pobj appos to
+3604	poss appos path agency
+3605	nsubj path reach prep pobj to
+3606	path prep pobj appos broker at
+3607	poss index path nn
+3608	appos nn path intern
+3609	path prep concern pobj appos in
+3610	overlook dobj partmod path
+3611	appos path amod station
+3612	path nn prep pobj of member appos board
+3613	nsubj path award iobj
+3614	path part nn prep pobj of appos unit
+3615	appos nn path provider
+3616	nsubj path break
+3617	path president chapter prep pobj of appos
+3618	executive path prep pobj for appos
+3619	appos nsubj path wife
+3620	nsubj executive path prep pobj of
+3621	appos path lawyer dep
+3622	path engineer prep pobj with appos
+3623	path prep pobj of neighborhood amod
+3624	path prep pobj of city amod
+3625	stand path rcmod nsubj
+3626	nsubj path be INV rcmod
+3627	nsubj path prep join pobj at
+3628	path nn prep pobj attorney in
+3629	path prep pobj with surplus poss
+3630	nn path committee
+3631	path nn prep pobj estate in
+3632	comment path nn prep column pobj on poss
+3633	nsubj path prep pobj with stay
+3634	nsubj path prep pobj qualify for
+3635	path prep pobj with appos scientist
+3636	path talk prep pobj with poss
+3637	nn path rule
+3638	path at prep pobj hold in
+3639	poss path appos replacement
+3640	nsubj path writer prep pobj at
+3641	appos member path
+3642	nn path manager dep
+3643	appos nn path delegate
+3644	nn path poll
+3645	path prep co pobj of owner appos
+3646	path prep pobj for appos judge
+3647	appos nn path legislator
+3648	appos path amod leader
+3649	nsubj path dobj raise
+3650	path university nn prep pobj appos at professor
+3651	path prep name pobj for nsubjpass
+3652	leader path appos amod
+3653	coach path poss rcmod
+3654	nsubj path create rcmod
+3655	nsubj path be prep pobj INV in
+3656	path nn prep pobj of control
+3657	partmod path write prep pobj with
+3658	partmod path maker base prep pobj appos in
+3659	nn path candidate
+3660	path prep pobj by dep present
+3661	nsubj path officer prep pobj of
+3662	nsubj path expand prep pobj with relationship dobj
+3663	nsubj attend path prep pobj at
+3664	nsubj path prep perform pobj by
+3665	path prep pobj move INV to
+3666	credit nsubj path dobj
+3667	appos path poss cousin
+3668	path enclave prep pobj in amod
+3669	appos path school amod
