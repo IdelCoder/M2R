@@ -4,19 +4,20 @@ import tensorflow as tf
 import random
 from sklearn.feature_extraction.text import CountVectorizer
 from numpy import linalg as LA
+import re
 np.set_printoptions(threshold=np.nan)
 input_dir = "./data/"
 relation2id = input_dir + 'nyt_relation2id.txt'
 # training dataset
 f_train_m2id = input_dir + "train_mention2id.txt"
-f_train_m2r = input_dir + "train_rmpair.txt"
+f_train_r2m = input_dir + "train_rmpair.txt"
 # testing dataset
 f_test_m2id = input_dir + "dev_mention2id.txt"
-f_test_m2r = input_dir + "dev_rmpair.txt"
+f_test_r2m = input_dir + "dev_rmpair.txt"
 
 # trained KB file
-f_relationvec = input_dir + 'relationvec.txt'
-f_entityvec = input_dir + 'entityvec.txt'
+f_relationvec = input_dir + 'relation2vec.bern'
+f_entityvec = input_dir + 'entity2vec.bern'
 
 # M2R+KB testing file
 f_m2rkb = input_dir + 'dev.txt'
@@ -34,8 +35,8 @@ class BoW:
                     id += 1
                     continue
                 pair = line.split('\t')
-                m_id = int(pair[0])
-                mention = pair[1].strip('\n')
+                mention = pair[0]
+                m_id = int(pair[1].strip('\n'))
                 self.mention_dct[m_id] = mention
                 bow_mention_lst.add(mention)
         if hyperPara.testFlag:
@@ -47,8 +48,8 @@ class BoW:
                         id += 1
                         continue
                     pair = line.split('\t')
-                    m_id = int(pair[0])
-                    mention = pair[1].strip('\n')
+                    mention = pair[0]
+                    m_id = int(pair[1].strip('\n'))
                     self.mention_dct[m_id] = mention
         X = self.vectorizer.fit_transform(bow_mention_lst)
         self.bow_size = X.shape[1]
@@ -61,6 +62,7 @@ class BoW:
     
     def get_embedding_batch(self, ids):
         index = 0
+        ret_np = None
         for id in range(ids.shape[0]):
             a = self.get_embedding(id)
             if index == 0:
@@ -68,13 +70,15 @@ class BoW:
                 ret_np = a
             else:
                 ret_np = np.vstack((ret_np, a))
+        # print("******************************************")
+        # print(np.transpose(ret_np))
         return np.transpose(ret_np)
         # return ret_np
         # print(ret_np)
         # raise IndexError()
         # return np.zeros((self.batch_size, self.bow_size))
 class DataSet:
-    def __init__(self, f_m2id, f_m2r):        
+    def __init__(self, f_m2id, f_r2m):        
         self.mlst = []
         self.rlst = []
         self.r_given_m = dict()
@@ -82,11 +86,11 @@ class DataSet:
         self.batch_size = 100
         with open(relation2id, 'r') as f:
             self.relation_num = int(f.readline().strip('\n'))
-        self.extract_data(f_m2id, f_m2r)
-    def extract_data(self, f_m2id, f_m2r):
+        self.extract_data(f_m2id, f_r2m)
+    def extract_data(self, f_m2id, f_r2m):
         with open(f_m2id, 'r') as f:
             self.mention_num = int(f.readline().strip('\n'))
-        with open(f_m2r, 'r') as f:
+        with open(f_r2m, 'r') as f:
             for line in f:
                 pair = line.split("\t")
                 r = int(pair[0])
@@ -114,7 +118,7 @@ class DataSet:
 
 class TestSet(DataSet):
     def __init__(self):
-        super().__init__(f_test_m2id, f_test_m2r)
+        super().__init__(f_test_m2id, f_test_r2m)
         self.test_id = 0
         self.batch_size = self.relation_num
         self.rank_sum = 0
@@ -149,7 +153,7 @@ class TestSet(DataSet):
 
 class TrainSet(DataSet):
     def __init__(self):
-        super().__init__(f_train_m2id, f_train_m2r)
+        super().__init__(f_train_m2id, f_train_r2m)
     
     def get_batch(self):
         m_i_batch, r_i_batch = super().get_batch()
@@ -177,7 +181,24 @@ class KBModel:
 
     def norm2(self, h_vec, rel_vec, t_vec):
         return LA.norm(h_vec + rel_vec - t_vec)
-
+    
+    def evaluate_batch(self, h, t, ret_size):
+        score_lst = []
+        h_vec = self.e_vec[h]
+        t_vec = self.e_vec[t]
+        for i in range(self.r_num):
+            rel_vec = self.r_vec[i]
+            score_lst.append((i, self.norm2(h_vec, rel_vec, t_vec)))
+        # sorted ascending
+        sort_lst = sorted(score_lst, key=lambda item: item[1])
+        ret_val = [0] * ret_size
+        for i in range(len(sort_lst)):
+            if i >= self.hits_n:
+                break
+            if sort_lst[i][0] < ret_size:
+                ret_val[sort_lst[i][0]] = 1
+        ret_val[0] = 0
+        return ret_val
     # 判断答案是否在Hits10中
     def evaluate(self, h, r, t):
         score_lst = []
@@ -185,13 +206,19 @@ class KBModel:
         t_vec = self.e_vec[t]
         for i in range(self.r_num):
             rel_vec = self.r_vec[i]
-            score_lst.append((i, self.norm2(h_vec, rel_vec, t_vec))
+            score_lst.append((i, self.norm2(h_vec, rel_vec, t_vec)))
         # sorted ascending
         sort_lst = sorted(score_lst, key=lambda item: item[1])
         id = 0
-        while id < self.hits_n:
-            if r == sort_lst[id][0]:
-                return 1
+        try:
+            while id < self.hits_n:
+                if r == sort_lst[id][0]:
+                    return 1
+                id += 1
+        except:
+            print("something goes wrong: {}".format(id))
+            print("length of sort_lst: {}".format(len(sort_lst)))
+            print("length of score_lst: {}".format(len(score_lst)))
         return 0
 
     def read_vec(self, entity=False):
@@ -200,9 +227,10 @@ class KBModel:
         else:
             ff = f_relationvec
         line_id = 0
-        with open(ff, 'w') as f:
+        with open(ff, 'r') as f:
+            mat = None
             for line in f:
-                lst = line.strip('\n').split('\t')
+                lst = re.split(r'\s+', line.strip('\n').strip())
                 a = np.array([float(i) for i in lst])
                 if line_id == 0:
                     mat = a
@@ -212,37 +240,97 @@ class KBModel:
             if entity:
                 self.e_vec = mat
                 self.e_num = line_id
+                print("len of e_num: {}".format(self.e_num))
             else:
                 self.r_vec = mat
                 self.r_num = line_id
+                print("len of r_num: {}".format(self.r_num))
         
 class M2RKB:
     def __init__(self):
+        self.test_id = 0
         self.m_given_h_t = dict()
+        self.r_given_h_t = dict()
         with open(f_m2rkb, 'r') as f:
             for line in f:
                 multi = [int(i) for i in line.strip('\n').split('\t')]
-                h = multi[0]
-                t = multi[1]
+                rel = multi[0]
+                if rel == 0:
+                    # 不考虑NA
+                    continue
+                h = multi[1]
+                t = multi[2]
+                if (h,t) not in self.r_given_h_t:
+                    self.r_given_h_t[(h,t)] = set()
+                self.r_given_h_t[(h,t)].add(rel)
+                if len(multi) < 4:
+                    # 即没有mention
+                    continue
                 if (h,t) not in self.m_given_h_t:
                     self.m_given_h_t[(h,t)] = set()
                 for i in range(3, len(multi)):
                     self.m_given_h_t[(h,t)].add(multi[i])
         self.h_t_lst = list(self.m_given_h_t.keys())
         self.m_lst = list(self.m_given_h_t.values())
-        self.data_size = len(h_t_lst)
+        self.data_size = len(self.h_t_lst)
         with open(relation2id, 'r') as f:
             self.relation_num = int(f.readline().strip('\n'))
-    def get_mention_batch(self, test_id):
-        m_set = m_lst[test_id]
+        self.precision = [0] * self.relation_num
+        self.recall = [0] * self.relation_num
+        self.correct_r_num = 0
+        self.hit_num = 0
+    def get_rel_mention_batch(self):
+        m_set = self.m_lst[self.test_id]
+        self.test_id += 1
         ret_mention = [i for i in m_set]
         ret_relation = [i for i in range(self.relation_num)]
         return ret_mention, ret_relation
 
-    def argmax_r(self, scores):
+    def m2r_kb_ev(self, scores, kbmodel):
         # scores 是一个num_mention行，num_rel行的矩阵，求每一列的和，得到r
-        pass
-                
+        mention_sum = np.sum(scores, axis=0)
+        h, t = self.h_t_lst[self.test_id - 1]
+        mention_sum = mention_sum + kbmodel.evaluate_batch(h, t, self.relation_num)
+        # for i in range(1, self.relation_num):
+        #     mention_sum[i] += kbmodel.evaluate(h, i, t)
+        score_lst = []
+        for i in range(self.relation_num):
+            score_lst.append((i, mention_sum[i]))
+        rank_lst = sorted(score_lst, key=lambda item: item[1], reverse=True)
+        correct_r = self.r_given_h_t[(h,t)]
+        self.correct_r_num += len(correct_r)
+        for i in range(1, len(rank_lst) + 1):
+            answer_lst_size = i
+            hit_cnt = 0
+            for a in range(answer_lst_size):
+                if rank_lst[a][0] in correct_r:
+                    hit_cnt += 1
+                    self.hit_num += 1
+            self.precision[answer_lst_size - 1] += hit_cnt / answer_lst_size
+            self.recall[answer_lst_size - 1] += hit_cnt / len(correct_r)
+    
+    def display_result(self):
+        self.precision = [i / self.data_size for i in self.precision]
+        self.recall = [i / self.data_size for i in self.recall]
+        print(self.precision)
+        print(self.recall)
+        print(self.correct_r_num)
+        print(self.hit_num)
+
+
+    
+    # def get_mention_batch(self, rel):
+    #     m_set = self.m_lst[self.test_id - 1]
+    #     ret_mention = [i for i in m_set]
+    #     ret_relation = [rel]
+    #     return ret_mention, ret_relation
+    
+    # def m2r_kb_ev(self, rel, kbmodel, scores):
+    #     sigma_S_m2r = np.sum(scores)
+    #     h, t = self.h_t_lst[self.test_id - 1]
+    #     S_kb = kbmodel.evaluate(h, rel, t)
+    #     self.rel = rel
+        
 
 class HyperPara:
     def __init__(self):
@@ -327,13 +415,16 @@ def main(_):
                 predict = sess.run([trainModel.predict], feed_dict)
                 return predict
 
-            def m2rkb_test_step(m_i_batch, r_i_batch):
+            def sigma_m2r(m_i_batch, r_i_batch):
                 feed_dict = {
                     trainModel.m_i: m_i_batch,
                     trainModel.r_i: r_i_batch
                 }
                 m2rkb_result = sess.run([trainModel.m2rkb_result], feed_dict)
                 return m2rkb_result
+
+
+
 
             
             pmi = np.zeros(dataset.batch_size, dtype=np.int32)
@@ -351,19 +442,26 @@ def main(_):
                     print(res)
                 saver.save(sess, "./model.vec")
             else:
-                # testset = TestSet()
-                data_size = dataset.data_size
-                for pair in range(data_size):
-                    # 用所有的relation去替换原来pair中的relation
-                    pmi, pri = dataset.get_relation_batch()
-                    scores = test_step(pmi, pri)
-                    dataset.evaluate(1, scores[0])
-                dataset.show_result()
+                # data_size = dataset.data_size
+                # for pair in range(data_size):
+                #     # 用所有的relation去替换原来pair中的relation
+                #     pmi, pri = dataset.get_relation_batch()
+                #     scores = test_step(pmi, pri)
+                #     dataset.evaluate(1, scores[0])
+                # dataset.show_result()
                 if hyperPara.composite:
                     m2rkb = M2RKB()
-                    for i in range(m2rkb.data_size):
-                        pmi, pri = m2rkb.get_mention_batch(i)
-                        scores = m2rkb_test_step(pmi, pri)
+                    kbmodel = KBModel()
+                    i = 0
+                    for _ in range(m2rkb.data_size):
+                        pmi, pri = m2rkb.get_rel_mention_batch()
+                        print('***************************')
+                        print(i)
+                        print(pmi)
+                        i += 1
+                        scores = sigma_m2r(pmi, pri)
+                        m2rkb.m2r_kb_ev(scores[0], kbmodel)
+                    m2rkb.display_result()
 
 
 if __name__ == "__main__":
