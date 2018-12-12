@@ -6,7 +6,7 @@ from sklearn.feature_extraction.text import CountVectorizer
 from numpy import linalg as LA
 import re
 np.set_printoptions(threshold=np.nan)
-input_dir = "./elite/output/"
+input_dir = "./data/"
 relation2id = input_dir + 'fb_relation2id.txt'
 # training dataset
 f_train_m2id = input_dir + "train_mention2id.txt"
