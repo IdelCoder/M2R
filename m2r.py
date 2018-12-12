@@ -6,8 +6,8 @@ from sklearn.feature_extraction.text import CountVectorizer
 from numpy import linalg as LA
 import re
 np.set_printoptions(threshold=np.nan)
-input_dir = "./data/"
-relation2id = input_dir + 'nyt_relation2id.txt'
+input_dir = "./elite/output/"
+relation2id = input_dir + 'fb_relation2id.txt'
 # training dataset
 f_train_m2id = input_dir + "train_mention2id.txt"
 f_train_r2m = input_dir + "train_rmpair.txt"
@@ -94,6 +94,8 @@ class DataSet:
             for line in f:
                 pair = line.split("\t")
                 r = int(pair[0])
+                if r == 0:
+                    continue
                 m = int(pair[1])
                 self.mlst.append(m)
                 self.rlst.append(r)
@@ -163,7 +165,7 @@ class TrainSet(DataSet):
         relation_num = self.relation_num
         for m_i in m_i_batch:
             m_j = random.randint(0, mention_num - 1)
-            while m_j == m_i:
+            while m_j == m_i or m_j not in self.r_given_m:
                 m_j = random.randint(0, mention_num - 1)
             r_n = random.randint(0, relation_num - 1)
             while r_n in self.r_given_m[m_j] or r_n in self.r_given_m[m_i]:
@@ -191,6 +193,9 @@ class KBModel:
             score_lst.append((i, self.norm2(h_vec, rel_vec, t_vec)))
         # sorted ascending
         sort_lst = sorted(score_lst, key=lambda item: item[1])
+        with open('result1.txt', 'w') as f:
+            for i in range(len(sort_lst)):
+                f.write(str(sort_lst[i][0]) + '\t' + str(sort_lst[i][1]) + '\n')
         ret_val = [0] * ret_size
         for i in range(len(sort_lst)):
             if i >= self.hits_n:
@@ -198,6 +203,9 @@ class KBModel:
             if sort_lst[i][0] < ret_size:
                 ret_val[sort_lst[i][0]] = 1
         ret_val[0] = 0
+        with open('result2.txt', 'w') as f:
+            for i in range(ret_size):
+                f.write(str(ret_val[i]) + '\n')
         return ret_val
     # 判断答案是否在Hits10中
     def evaluate(self, h, r, t):
@@ -275,10 +283,9 @@ class M2RKB:
         self.data_size = len(self.h_t_lst)
         with open(relation2id, 'r') as f:
             self.relation_num = int(f.readline().strip('\n'))
-        self.precision = [0] * self.relation_num
-        self.recall = [0] * self.relation_num
-        self.correct_r_num = 0
-        self.hit_num = 0
+        self.precision = [0] * self.data_size
+        self.recall = [0] * self.data_size
+        self.TP = 0
     def get_rel_mention_batch(self):
         m_set = self.m_lst[self.test_id]
         self.test_id += 1
@@ -289,33 +296,50 @@ class M2RKB:
     def m2r_kb_ev(self, scores, kbmodel):
         # scores 是一个num_mention行，num_rel行的矩阵，求每一列的和，得到r
         mention_sum = np.sum(scores, axis=0)
+        with open('result3.txt', 'w') as f:
+            for i in range(mention_sum.shape[0]):
+                f.write(str(mention_sum[i]) + '\n')
         h, t = self.h_t_lst[self.test_id - 1]
+        print("head is {}".format(h))
+        print("tail is {}".format(t))
+        for i in self.r_given_h_t[(h,t)]:
+            print("rel is {}".format(i))
         mention_sum = mention_sum + kbmodel.evaluate_batch(h, t, self.relation_num)
+        
         # for i in range(1, self.relation_num):
         #     mention_sum[i] += kbmodel.evaluate(h, i, t)
         score_lst = []
         for i in range(self.relation_num):
             score_lst.append((i, mention_sum[i]))
         rank_lst = sorted(score_lst, key=lambda item: item[1], reverse=True)
+        with open("result4.txt", "w") as f:
+            for i in range(10):
+                f.write(str(rank_lst[i][0]) + '\t' + str(rank_lst[i][1]) + '\n')
+        raise IndentationError()
         correct_r = self.r_given_h_t[(h,t)]
-        self.correct_r_num += len(correct_r)
-        for i in range(1, len(rank_lst) + 1):
-            answer_lst_size = i
-            hit_cnt = 0
-            for a in range(answer_lst_size):
-                if rank_lst[a][0] in correct_r:
-                    hit_cnt += 1
-                    self.hit_num += 1
-            self.precision[answer_lst_size - 1] += hit_cnt / answer_lst_size
-            self.recall[answer_lst_size - 1] += hit_cnt / len(correct_r)
+        predict_r = rank_lst[0][0]
+        if predict_r in correct_r:
+            self.TP += 1
+        self.precision[self.test_id - 1] = self.TP / self.test_id
+        self.recall[self.test_id - 1] = self.TP / self.data_size
+        # for i in range(1, len(rank_lst) + 1):
+        #     answer_lst_size = i
+        #     hit_cnt = 0
+        #     for a in range(answer_lst_size):
+        #         if rank_lst[a][0] in correct_r:
+        #             hit_cnt += 1
+        #             self.hit_num += 1
+        #     self.precision[answer_lst_size - 1] += hit_cnt / answer_lst_size
+        #     self.recall[answer_lst_size - 1] += hit_cnt / len(correct_r)
     
     def display_result(self):
-        self.precision = [i / self.data_size for i in self.precision]
-        self.recall = [i / self.data_size for i in self.recall]
-        print(self.precision)
-        print(self.recall)
-        print(self.correct_r_num)
-        print(self.hit_num)
+        # self.precision = [i / self.data_size for i in self.precision]
+        # self.recall = [i / self.data_size for i in self.recall]
+        # print(self.precision)
+        # print(self.recall)
+        with open('result.txt', 'w') as f:
+            for i in range(self.data_size):
+                f.write(str(self.precision[i]) + '\t' + str(self.recall[i]) + '\n')
 
 
     
@@ -336,7 +360,7 @@ class HyperPara:
     def __init__(self):
         self.learning_rate = 0.001
         self.dim = 50
-        self.epoch = 50
+        self.epoch = 500
         self.margin = 1.0
         # if you want to test, set these two options True
         self.loadFromData = True
@@ -458,6 +482,7 @@ def main(_):
                         print('***************************')
                         print(i)
                         print(pmi)
+                        # print(pri)
                         i += 1
                         scores = sigma_m2r(pmi, pri)
                         m2rkb.m2r_kb_ev(scores[0], kbmodel)
