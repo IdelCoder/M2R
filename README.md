@@ -27,4 +27,6 @@ the nyt+freebase is and where to download it.
 a large part. Anyway, the file after processing is in the directory Dataset.
 4) **Last but very important**. I just cannot get why the recall reported in papers is so low while the precision is high. Given an entity pair (h,t),
 the number of rels between h and t usually is 1. In this case, the recall should be high if the precision is high. And with the declining
-of precision, the recall will continue go up.
+of precision, the recall will continue go up. 
+## updaing
+Updating on 12/12/2018, After refering to the code from Hoffmann et.al (Knowledge-BasedWeak Supervision for Information Extraction of Overlapping Relations, I figure out the calculation of precision and recall. It takes all rel relations in the testing set as the answer collection. However, the results are still not good. The model suffers from lack of training data.
